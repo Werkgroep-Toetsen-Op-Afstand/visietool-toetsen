@@ -5,6 +5,7 @@ project:
 website:
   title: "Visietool Toetsen"
   navbar:
+    background: '#9E8E67'
     left:
       - href: index.qmd
         text: Home
