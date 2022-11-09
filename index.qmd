@@ -1,0 +1,39 @@
+::: {.lead}
+
+Deze Visietool helpt om een visie te ontwikkelen op (digitaal) toetsen binnen een opleiding, faculteit of instelling. Als uitgangspunt gebruikt de tool het document Toekomstperspectief op (digitaal) toetsen en beoordelen.
+
+:::
+
+::: {.text-center}
+
+[Start](visietool_toetsen.qmd){.btn .btn-primary target="_blank"}
+
+:::
+
+## Toekomstperspectief op (digitaal) toetsen en beoordelen
+
+De werkgroep Toetsen van het Versnellings plan ontwikkelde in 2022 het toekomstperspectief voor toetsen en beoordelen in 2027. Het is gebaseerd op een analyse van trends rond toetsing in het hoger onderwijs. Onder leiding van bureau Turner en samen met SURF en een kleine 50 experts uit mbo, hbo en wo is vervolgens het perspectief ingekleurd.
+
+## Vijf dimensies
+
+In het toekomstperspectief zien we vijf dimensies. Omdat instellingen en opleidingen sterk van elkaar verschillen zal ook verschillen hoe een bepaalde dimensie vorm krijgt. Deze visietool helpt om het gesprek te voeren over de inkleuring van deze dimensies binnen een organisatie(-onderdeel) 
+Een uitgebreide toelichting op de dimensies is terug te lezen in het Toekomstperspectief; ook wordt iedere dimensie kort toegelicht in de tool. Het om deze vijf:
+
+1.	Formatieve en summatieve functie van toetsen in balans
+2.	Toetsen en leren geïntegreerd en samenhangend, maar ook modulair waar wenselijk
+3.	Toetsen zijn authentiek, rijk en gevarieerd
+4.	Plaats- en tijdonafhankelijk toetsen
+5.	Toetsproces in samenhang en in samenwerking gedigitaliseerd en georganiseerd
+
+## Uitwerking per dimensie
+
+De Visietool helpt om per dimensie het gesprek aan te gaan over de invulling ervan. Iedere dimensie is opgesplitst in twee componenten (bijvoorbeeld voor de eerste dimensie: een component Formatief en een component Summatief). Vervolgens bevat elke component drie schaalpunten. Elk schaalpunt bevat een stelling met een inhoudelijke concretisering en een (mogelijke) verantwoording.
+Gebruikers van de Visietool kiezen voor elke component het schaalpunt van de stelling die zij het beste vinden passen (let op: het hoeft niet perfect te passen, het gaat erom het gesprek op gang te brengen) bij hun opleiding en de ambities die zij hiervoor hebben. Het invulveld in de tool biedt de mogelijkheid een verantwoording bij de keuze op te  schrijven.
+
+N.B. het is niet zo dat schaalpunt 3 te allen tijde ‘de beste keuze’ zou zijn. Welk schaalpunt de beste keuze is, kan voor iedere opleiding verschillend zijn. 
+
+## Werkwijze
+
+Dit instrument is het beste in te zetten als gesprekstool met een multidisciplinair team (denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, etc.) van 5-7 personen.
+
+Wij raden gebruikers aan om eerst de Visietool individueel te doorlopen en om bij elke component een eigen verantwoording te formuleren voor de gekozen stelling. Vervolgens gaan de betrokkenen met elkaar in gesprek over de gemaakte keuzes en de verantwoordingen hiervan. Dan komen zij tot een besluit en leggen dit vast door gezamenlijk de visietool opnieuw in te vullen. De gekozen stellingen en ingevulde verantwoordingen in de definitief ingevulde visietool vormen vervolgens  input voor het schrijven van de officiële visie van de opleiding.
