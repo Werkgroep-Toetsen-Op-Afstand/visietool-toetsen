@@ -15,4 +15,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    link-external-newwindow: true
+    link-external-newwindow: false
