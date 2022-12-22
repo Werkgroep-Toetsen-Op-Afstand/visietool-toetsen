@@ -6,7 +6,7 @@ Deze Visietool helpt om een visie te ontwikkelen op (digitaal) toetsen binnen ee
 
 ::: {.text-center}
 
-[Start](visietool_toetsen.qmd){.btn .btn-primary target="_blank"}
+[Werkwijze](werkwijze.qmd){.btn .btn-primary target="_blank"}
 
 :::
 
@@ -32,7 +32,7 @@ Gebruikers van de Visietool kiezen voor elke component het schaalpunt van de ste
 
 N.B. het is niet zo dat schaalpunt 3 te allen tijde ‘de beste keuze’ zou zijn. Welk schaalpunt de beste keuze is, kan voor iedere opleiding verschillend zijn. 
 
-## Werkwijze
+## Gebruik
 
 Dit instrument is het beste in te zetten als gesprekstool met een multidisciplinair team (denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, etc.) van 5-7 personen.
 

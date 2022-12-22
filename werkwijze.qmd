@@ -1,0 +1,81 @@
+---
+titel: "Werkwijze"
+---
+
+## Voorbereiding
+
+::: {.lead}
+
+Dit instrument is het beste in te zetten als gesprekstool met een multidisciplinair team (denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, etc.) van 5-7 personen, onder begeleiding van een moderator. Nodig als moderator de relevante betrokkenen uit voor een sessie met de visietool, vraag hen om hun telefoon of laptop mee te nemen, en reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur.
+Bij het gebruik van de visietool hoort een Mentimeter. Open van tevoren de Mentimeter (via de link onder deze instructie) in je eigen Mentimeteraccount of dat van je organisatie, of maak hiervoor een (gratis) account aan. Mogelijk verschijnt er de melding ‘This presentation uses features that are not included in your plan’, deze melding kun je negeren. In de ‘Presenter notes’ onder de dia’s van de Mentimeter staan instructies voor de moderator; neem deze ter voorbereiding op de sessie door.
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.card .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Mentimeter {.card-title}
+
+::: {.card-text}
+
+* [Open hier de mentimeter template](https://www.mentimeter.com/app/presentation/al8gr92ngyp28nt56zacqwvbdykzxs6w/rnbnwsc71ztj/edit){.link-light}
+
+Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: "Copy to your account".
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.card .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Documenten {.card-title}
+
+::: {.card-text}
+
+* [Handout stellingen visietool](dimensies-stellingen-handout.pdf){.link-light}
+* [Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+:::
+
+## De sessie
+
+Begeleid de betrokkenen stap voor stap (elke stap heeft een eigen dia) door de sessie heen, tot aan het eind voor elk van de vijf dimensies een gezamenlijk besluit is genomen over welke schaalpunten bij welke componenten men het beste vindt passen bij hoe men de toetsing in de (toekomstige) opleiding voor zich ziet, en een verantwoording hiervan is vastgelegd.
+
+* Stap 1: Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de visietool.
+* Stap 2: Start vervolgens de Mentimeter op en laat de betrokkenen met hun laptop of telefoon deelnemen aan de Mentimeter door de code die bovenin de dia’s van de presentatie staat in te vullen in www.menti.com.
+* Stap 3: Bij iedere dimensie wordt gestart met het lezen van de beschrijving van deze dimensie. Vervolgens krijgen de betrokkenen per component van deze dimensie ongeveer 2 minuten de tijd om de stellingen bij de drie schaalpunten te lezen en om voor zichzelf een onderbouwde keuze te maken voor één van deze stellingen: welke stelling past volgens hen het beste bij hoe zij de opleiding (in de toekomst) voor zich zien? De betrokkenen noteren voor zichzelf hun keuze met hun verantwoording daarvan.
+* Stap 4: Vervolgens vullen de betrokkenen in de Mentimeter in welke posities (schaalpunten) zij hebben gekozen bij de twee componenten van deze dimensie. 
+* Stap 5: Laat hen nu hun keuzes verantwoorden en laat hen met elkaar in gesprek gaan over de overeenkomsten en verschillen in opvattingen, met als doel om tot een gezamenlijk besluit te komen. Neem hier ongeveer 5 tot 7 minuten de tijd voor.
+* Stap 6: Vraag de betrokkenen tot welk besluit zij zijn gekomen voor de posities op de twee componenten van de dimensie en vraag hen om een verantwoording hiervan. Laat één van de betrokkenen de verantwoording in Mentimeter invullen. Neem hier ongeveer 2 tot 3 minuten de tijd voor.
+
+Herhaal stap 3 t/m 6 voor elke dimensie.
+
+* Stap 7: Wanneer de laatste dimensie is behandeld, laat je de betrokkenen hun besluit over alle dimensies met de bijbehorende verantwoording vastleggen. Dit kan door in de Mentimeter van de moderator te klikken op [‘View results’ en vervolgens op ‘Download PDF’](View_results.png). Deel een kopie van dit pdf-bestand met alle betrokkenen.
+
+# Het vervolg
+
+Het invullen van de visietool vormt niet het eindpunt maar het startpunt van het bepalen van de visie van de opleiding. De gezamenlijk gekozen stellingen met bijbehorende verantwoording vormen input voor het (her)schrijven van de officiële visie van de opleiding. Laat de betrokkenen afspraken met elkaar maken over het (her)schrijven van deze officiële visie.
+
+
+<!-- [Start](visietool_toetsen.qmd){.btn .btn-primary target="_blank"} -->
