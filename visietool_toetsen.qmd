@@ -5,6 +5,7 @@ format:
   revealjs:
     controls: true
     background-transition: slide
+    css: styles.css
     transition: slide
     title-slide-attributes: 
       data-background-color: "#9E8E67"
@@ -12,122 +13,122 @@ format:
 
 # Dimensie 1 {.smaller data-background-color="#00617E"}
 
-* Formatieve en summatieve functie van toetsen in balans
+> <dfn title="Toetsing waarbij het leren van de toets voorop staat. Vanuit de literatuur wordt hierbij aanbevolen om af te zien van het geven van cijfers . Door met toetsopgaven aan de slag te gaan en te leren van fouten en feedback wordt het leerproces gestimuleerd. Er wordt niet gestreefd naar een bepaald minimaal te behalen niveau. Soms ook aangeduid met Assessment for Learning of Assessment as Learning. ">Formatieve</dfn> en <dfn title="Toetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score op een dergelijke meting wordt gebruikt voor formele toerekening van een behaald studieresultaat zoals studiepunten of een diploma. Denk bijvoorbeeld aan examens of een tentamen. Soms ook aangeduid met assessment of learning. ">summatieve</dfn> functie van toetsen in balans
 
-In deze dimensie gaat het om de vraag in hoeverre men toetsen in wil zetten voor formatieve doeleinden en in hoeverre voor summatieve doeleinden. Bij een formatieve inzet zijn toetsen gericht op de ondersteuning van het leerproces, bij een summatieve inzet op de beoordeling van de kennis en kunde en om te besluiten over de kwalificatie van de student. Een formatief en een summatief gebruik van toetsen sluiten elkaar niet uit. Zo kan een toets die in eerste instantie voor summatief gebruik bedoeld is bijvoorbeeld ook op een formatieve manier worden ingezet.
+In deze dimensie gaat het om de vraag hoe de verschillende doelen waarvoor een toets kan worden ingezet zich tot elkaar verhouden. Bij een <dfn title="Toetsing waarbij het leren van de toets voorop staat. Vanuit de literatuur wordt hierbij aanbevolen om af te zien van het geven van cijfers . Door met toetsopgaven aan de slag te gaan en te leren van fouten en feedback wordt het leerproces gestimuleerd. Er wordt niet gestreefd naar een bepaald minimaal te behalen niveau. Soms ook aangeduid met Assessment for Learning of Assessment as Learning. ">formatieve</dfn> inzet wordt het toetsen van studenten gebruikt om het leren te stimuleren en te besluiten over de beste vervolgstappen in het onderwijs. Bij een summatieve inzet wordt het toetsen gebruikt om vast te stellen of voldoende geleerd is en te besluiten over de kwalificatie van de student. Een formatief en een summatief gebruik van toetsen sluiten elkaar niet uit. Zo kan een toets die in eerste instantie voor summatief gebruik bedoeld is bijvoorbeeld ook op een formatieve manier worden ingezet. 
 
-## Formatief {.smaller}
+## Formatief {.smallest}
 
-1. In onze opleiding willen wij het gebruik van oefentoetsen beperken, zodat de docenten meer tijd over houden voor andere zaken die voor de opleiding van belang zijn. 
-2. In onze opleiding willen wij gebruikmaken van oefentoetsen bij studieonderdelen waarbij wij denken dat het van de meeste toegevoegde waarde is. Bij onderdelen waarbij dit volgens ons in mindere mate het geval is, willen wij hier geen gebruik van maken, zodat de docenten meer tijd overhouden voor andere zaken die voor de opleiding van belang zijn. 
-3. In onze opleiding willen wij regelmatig oefentoetsen inplannen, zodat voor zowel studenten als docenten duidelijk is waar de studenten staan. Gegevens uit deze toetsen willen wij gebruiken om het onderwijsprogramma en de begeleiding van de studenten waar nodig bij te sturen. Ook willen wij dat studenten regelmatig feedback krijgen op waar zij staan in hun ontwikkeling t.a.v. de leerdoelen van de opleiding.
+1. **Toetsen met een formatieve functie geen prioriteit** 
+    - In onze opleiding willen wij dat onze docenten lage prioriteit geven aan de inzet van toetsen met een formatieve functie. Bijvoorbeeld omdat de werkdruk voor docenten al hoog genoeg ligt.
+2. **Toetsen met een formatieve functie inzetten**
+    - In onze opleiding willen wij dat docenten toetsen met een formatieve functie inzetten. Bijvoorbeeld omdat studenten zo continu gestimuleerd worden om te leren.
+3. **Een programma van toetsen met een formatieve functie ontwerpen**
+    - In onze opleiding willen wij dat onze docenten een programma van toetsen met een formatieve functie ontwerpen. Bijvoorbeeld omdat de formatieve toetsen dan met elkaar samenhangen en samen een goed beeld geven waar de student staat.
 
-## Summatief {.smaller}
+## Summatief {.smallest}
 
-1. In onze opleiding willen wij het aantal toetsmomenten waarop de kennis en kunde van de student worden beoordeeld en waarop wordt besloten over de kwalificatie van de student, tot een minimum beperken. Het nog niet (volledig) beheersen van bepaalde kennis of vaardigheden is in onze opleiding geen bezwaar om een nieuw onderdeel te beginnen dat voortbouwt op deze kennis en/of vaardigheden.
-2. In onze opleiding willen wij onderdelen op een vroeg moment in de opleiding summatief toetsen wanneer wij vinden dat beheersing cruciaal is (bijv. met het oog op veiligheid), voordat aan een nieuw onderdeel mag worden begonnen dat daarop voortbouwt. Bij overige onderdelen willen wij summatieve toetsing pas op een laat moment in de opleiding plaats laten vinden.
-3. In onze opleiding willen wij regelmatig toetsmomenten inplannen om de kennis en kunde van de student te beoordelen en om te beslissen over de kwalificatie van de student. In onze opleiding is het namelijk belangrijk dat aangetoond is dat studenten bepaalde kennis en/of vaardigheden beheersen voordat zij aan een nieuw onderdeel mogen beginnen dat voortbouwt op deze kennis en/of vaardigheden.
-
+1. **Toetsen met een summatieve functie beperken** 
+   - In onze opleiding willen wij dat onze docenten de inzet van toetsen met een summatieve functie beperken. Bijvoorbeeld door toetsen op losse onderdelen te schrappen en samen te voegen in één <dfn title="Het moment waarop de toets wordt afgenomen of ingeleverd. ">toetsmoment</dfn>. Hierdoor is er meer ruimte in het programma voor onderwijs.   
+2. **Toetsen met een summatieve functie bewust inzetten** 
+    - In onze opleiding willen wij dat onze docenten de inzet van toetsen met een summatieve functie bij sommige studieonderdelen beperken of juist bewust inzetten.  Bijvoorbeeld omdat bij bepaalde onderdelen beheersing cruciaal is voor het starten met een nieuw onderdeel dat daarop voortbouwt.  
+3. **Toetsen met een summatieve functie regelmatig inplannen**
+    - In onze opleiding willen wij regelmatig toetsmomenten met een summatieve functie inplannen. Bijvoorbeeld omdat we studenten de mogelijkheid willen geven (onder)delen af te sluiten. 
+ 
 # Dimensie 2 {.smaller data-background-color="#00617E"}
 
-* Toetsen en leren geïntegreerd en samenhangend, modulair waar wenselijk
+> Toetsen en leren geïntegreerd en samenhangend, <dfn title="Indien een opleiding modulair onderwijs biedt, bestaat het onderwijsprogramma uit modules waarmee per module specifieke leerdoelen of leeruitkomsten worden behaald. Alle modules tezamen vormen de opleiding en leiden op tot een bepaald opleidingsprofiel. Indien onderwijs modulair is opgebouwd, kunnen modules afzonderlijk van elkaar gevolgd en afgerond worden.  ">modulair</dfn> waar wenselijk
 
-In dimensie 2 gaat het ten eerste om de vraag in hoeverre men toetsen en leren wil integreren; in hoeverre men toetsen een integraal onderdeel wil laten zijn van het onderwijsprogramma. Ten tweede gaat het om de vraag in hoeverre men modulair onderwijs aan wil bieden, waarin onderwijseenheden apart toetsbaar zijn en op zichzelf waarde hebben.
+In dimensie 2 gaat het ten eerste om de vraag in hoeverre men de verschillende functies (formatief en summatief) van toetsen wil integreren. Ten tweede gaat het om de vraag in hoeverre men modulair onderwijs aan wil bieden, waarin <dfn title="Een onderwijseenheid is een samenhangend onderdeel van een opleiding dat een deelnemer afsluit met een toets.">onderwijseenheden</dfn> apart toetsbaar zijn. 
 
-## Geïntegreerd {.smaller}
+## Geïntegreerd {.smallest}
 
-1. In onze opleiding willen wij leren en toetsen duidelijk van elkaar gescheiden houden. Dit geeft zowel studenten als docenten duidelijkheid. Daarnaast voorkomt het uitdagingen op het gebied van de borging van de betrouwbaarheid van beoordelingen, mede doordat de kans op beoordelaarsfouten zo klein mogelijk wordt gehouden.
-2. In onze opleiding willen wij leren en toetsen tot op zekere hoogte integreren. Hoewel toetsen en leeractiviteiten in hoofdzaak van elkaar gescheiden zullen blijven, willen wij bij (een deel van de) leeractiviteiten feedback terugkoppelen aan studenten en deze (in een deel van de gevallen) meewegen in beoordelingen.
-3. In onze opleiding willen wij leren en toetsen volledig integreren. Wij willen leren en toetsen in samenhang aanbieden en voorzien in veel verschillende meetmomenten. Deze meetmomenten gaan altijd gepaard met feedback, en geven gaandeweg samen een steeds beter beeld van de mate waarin de studenten voldoen aan de leeruitkomsten, waar zij gedurende de gehele opleiding naartoe werken.
+1. **Duidelijk gescheiden functies**
+    - In onze opleiding willen wij de functies van toetsen (formatief en summatief) duidelijk van elkaar gescheiden houden. Bijvoorbeeld omdat wij het belangrijk vinden dat studenten eerst de kans krijgen om te leren, voordat we een (zwaarwegende) beslissing nemen over de kennis en kunde van de student.   
+2. **Integratie tot op zekere hoogte**
+    - In onze opleiding willen wij de functies van toetsen (formatief en summatief) duidelijk van elkaar gescheiden houden, waarbij we wel willen dat ze elkaar versterken om het leren zoveel mogelijk te stimuleren. Bijvoorbeeld studenten oefenen met formatieve toetsen die vergelijkbaar zijn aan de <dfn title="Toetsing waarbij het zo nauwkeurig mogelijk meten van een bepaald niveau van vaardigheid voorop staat. De behaalde score op een dergelijke meting wordt gebruikt voor formele toerekening van een behaald studieresultaat zoals studiepunten of een diploma. Denk bijvoorbeeld aan examens of een tentamen. Soms ook aangeduid met assessment of learning. ">summatieve toets</dfn>, zodat ze goed voorbereid zijn op de summatieve toets.  
+3. **Volledige integratie**
+    - In onze opleiding willen wij de functies van toetsen (formatief en summatief) volledig integreren. Wij doen dit bijvoorbeeld door <dfn title="Programmatisch toetsen is een holistische manier van toetsen waarbij gekeken wordt naar de gehele ontwikkeling van de student. Het doel van programmatisch toetsen is het optimaliseren van de leerfunctie van toetsing (voor meer informatie, kijk op: programmatischtoetsen.nl; Baartman, Schilt-Mol, and Vleuten, 2020).  ">programmatisch</dfn> te toetsen. Dit houdt in dat we werken met een grote hoeveelheid informatie/feedback uit toetsen (bijvoorbeeld verslagen, reflecties en kennistoetsen), waardoor we gaandeweg een steeds beter beeld krijgen van de mate waarin de studenten voldoen aan de <dfn title="Leeruitkomsten zijn datgene wat een student moet weten, begrijpen of toepassen na een leerperiode (NVAO, 2015).">leeruitkomsten</dfn>.   
 
-## Modulair {.smaller}
+## Modulair {.smallest}
 
-1. In onze opleiding kiezen wij voor een onderwijsprogramma dat grotendeels vaststaat. Wij zien elk studieonderdeel namelijk als essentieel voor de toekomstige beroepsuitoefening. Er zal in onze opleiding sprake zijn van een beperkte vrijekeuzeruimte waarin studenten mogen kiezen uit een selectie van keuzemodules.
-2. In onze opleiding willen wij een deel van de modules verplichten; deze zien wij als de essentiële basis voor de toekomstige beroepsuitoefening. Daarnaast zal er ook sprake zijn van vrijekeuzeruimte waarin studenten geheel vrij worden gelaten in het kiezen van een module (dit kan bijv. ook een module van een geheel andere opleiding op een andere instelling zijn).
-3. In onze opleiding willen wij studenten in staat stellen om hun persoonlijke leerpad of programma samen te stellen. Hierin zullen zij een grote keuzevrijheid uit verschillende modules hebben. Toetsen zullen in onze opleiding de voortgang van de student per module vaststellen en helpen besluiten over de (al dan niet) behaalde leerdoelen per module. Wij willen studenten ook de mogelijkheid bieden om slechts één of enkele modules van de opleiding te volgen met elk een eigen (deel)certificaat.
+1. **Ons programma staat vast** 
+    - In onze opleiding kiezen we voor een onderwijs- en <dfn title="Een toetsprogramma is meer dan de optelsom van alle toetsen van een opleiding. Een toetsprogramma is ook meer dan een willekeurige mix van toetsvormen. Van een programma is pas sprake als de combinatie van toetsvormen bewust is samengesteld, passend bij de doelen, inhoud, opbouw en structuur van het curriculum (Berkel, Bax, & Joosten-ten Brinke, 2014). ">toetsprogramma</dfn> dat vaststaat. Modules/onderwijseenheden hangen met elkaar samen en kunnen in samenhang getoetst worden. Door de <dfn title="Een doorlopende leerlijn in het curriculum is een inhoudelijke lijn waarbij studenten gedurende het onderwijsprogramma van een beginniveau naar een beoogd eindniveau worden gebracht.  ">doorlopende leerlijnen</dfn> bouwen latere toetsen voort op eerdere toetsen. Studenten kunnen zich profileren door vrije keuzeruimte, zoals een minor. Bijvoorbeeld omdat de studieonderdelen op elkaar voortbouwen en wij daarom de volgorde bepalen.  
+2. **Ons programma staat deels vast**
+    - In onze opleiding willen wij dat een deel van de modules/onderwijseenheden vaststaat. Het onderwijs en de toetsing in deze modules hangen met elkaar samen. Daarnaast is er een substantieel deel van de opleiding waarin studenten zelf (de volgorde van) modules mogen kiezen. Deze modules worden los van elkaar getoetst. Bijvoorbeeld omdat we naast de voor het toekomstige beroep essentiële modules waar mogelijk onze studenten keuzes willen geven.  
+3. **Ons programma is volledig flexibel in te richten**
+    - In onze opleiding willen wij studenten in staat stellen om hun persoonlijke leerpad of programma samen te stellen. De modules/onderwijseenheden staan allemaal los van elkaar en worden ook los van elkaar getoetst. Bijvoorbeeld omdat we hierdoor studenten de kans geven om in hun eigen tempo te studeren en zelf de regie te hebben over hun eigen onderwijsprogramma.  
 
 # Dimensie 3 {.smaller data-background-color="#00617E"}
 
-* Toetsen authentiek en gevarieerd
+> Toetsen <dfn title="Een authentieke toets is een toets die zo veel mogelijk overeenkomt met de beroepspraktijk waartoe opgeleid wordt. Vijf dimensies beïnvloeden de mate van authenticiteit: de taak, de fysieke context, de sociale context, de vorm (assessmentmethode) en de beoordelingscriteria (Gulikkers, 2008) ">authentiek</dfn> en gevarieerd
 
-In deze dimensie gaat het ten eerste om de vraag in welke mate men de toetsen wil laten aansluiten op de praktische toepassing in werk en maatschappij en in welke mate men het voor studenten herkenbaar wil laten zijn hoe de toetsen aansluiten op leerdoelstellingen en -uitkomsten. De tweede vraag die centraal staat is in welke mate men ruimte wil bieden voor een gevarieerd aanbod aan toetsen in zowel vorm als inhoud.
+In deze dimensie gaat het ten eerste om de vraag in welke mate men de toetsen wil laten aansluiten op de praktische toepassing in werk en maatschappij. Dat kan door te kijken naar de vijf dimensies die de authenticiteit van een toets beïnvloeden: de taak, de fysieke context, de sociale context, de vorm (assessmentmethode) en de beoordelingscriteria (Gulikkers, 2008). De tweede vraag die centraal staat is in welke mate men ruimte wil bieden voor een gevarieerd aanbod aan toetsen. 
 
-## Authentiek {.smaller}
+## Authentiek {.smallest}
 
-<small>
+1. **Geen prioriteit aan authentiek toetsen**
+    - In onze opleiding geven wij geen prioriteit aan authentiek toetsen. Bijvoorbeeld omdat de opleiding vooral gericht is op het ontwikkelen van een brede kennisbasis.  
+2. **In toenemende mate authentiek toetsen**
+    - In onze opleiding willen wij meer authentiek toetsen naarmate de student verder komt in zijn of haar opleiding. Bijvoorbeeld omdat het begin van de opleiding meer op kennis is gericht en naarmate de opleiding vordert, de nadruk meer op competenties komt te liggen. 
+3. **Zo veel mogelijk authentiek toetsen**
+    - In onze opleiding willen we door de gehele opleiding heen authentiek toetsen zoveel mogelijk inzetten (daar waar relevant en mogelijk). Bijvoorbeeld omdat studenten dan al vroeg in de opleiding vertrouwd raken met de (toekomstige) beroepscontext en de relevantie zien van wat ze in de opleiding moeten leren.  
 
-1. In onze opleiding willen wij pas aan het einde van de opleiding authentiek toetsen, om voor het afstuderen vast te kunnen stellen of de studenten de competenties beheersen in een authentieke taaksituatie. Tot die tijd worden kennis en (sub)vaardigheden apart getoetst. Op deze manier kunnen wij de betrouwbaarheid van de toetsing beter borgen en houden wij meer tijd en middelen over voor andere zaken die voor de opleiding van belang zijn.
-2. In onze opleiding willen wij starten met het apart toetsen van kennis en (sub)vaardigheden. Later in de opleiding ligt de nadruk meer op authentiek toetsen. Op deze manier kunnen wij de betrouwbaarheid van de toetsing beter borgen en houden wij meer tijd en middelen over voor andere zaken die voor de opleiding van belang zijn, maar is er bij de studenten die verder gevorderd zijn in de opleiding ook een goed zicht op hun beheersing van de competenties in authentieke taaksituaties en kunnen de studenten tegen die tijd de (toekomstige) beroepscontext en de eisen die daar worden gesteld beter leren kennen.
-3. In onze opleiding willen wij door de gehele opleiding heen studenten zoveel mogelijk authentiek toetsen. Dit geeft continu een goed zicht op de beheersing van de studenten van de competenties, op hoe studenten kennis en (sub)vaardigheden kunnen toepassen in authentieke taaksituaties en hierin de juiste beroepshouding kunnen laten zien. Daarnaast raken studenten op deze manier al vroeg in de opleiding vertrouwd met de (toekomstige) beroepscontext en de eisen die daar worden gesteld.
+## Gevarieerd {.smallest}
 
-</small>
-
-## Gevarieerd {.smaller}
-
-1. In onze opleiding willen wij dat de toetsing voor alle studenten hetzelfde is. Docenten zullen de keuze hebben uit een vast aanbod aan gestandaardiseerde toetsvormen. Hierdoor zal iedereen goed weten waar die aan toe is en zullen procedures voor de borging van de kwaliteit van de toetsen worden vereenvoudigd.
-2. In onze opleiding willen wij streven wij naar uniformiteit in de toetsing, maar docenten ook ruimte bieden om met voorstellen voor nieuwe toetsvormen te komen. Mits een voorgestelde nieuwe toetsvorm door de examencommissie wordt goedgekeurd, dan zal deze worden opgenomen in het aanbod aan toetsvormen waaruit docenten kunnen kiezen.
-3. In onze opleiding willen wij docenten alle ruimte bieden om gevarieerde toetsvormen te ontwikkelen, zolang de borging van de toetskwaliteit niet in het geding komt. Hiervoor is het belangrijk dat de opleiding beschikt over de juiste experts en adviseurs om met docenten en examencommissie tot een optimaal gevarieerd toetspalet te komen.
+1. **Gestandaardiseerde toetsvormen**
+    - In onze opleiding hebben docenten keuze uit een beperkt, vast aanbod aan <dfn title="en gestandaardiseerde toetsvorm is een toetsvorm die qua inhoud en omstandigheden voor iedereen gelijk is. ">gestandaardiseerde toetsvormen</dfn>. Er wordt voorgeschreven welke toetsvorm je als docent in mag zetten. Bijvoorbeeld als docent mag je uitsluitend kiezen om te toetsen middels een kennistoets, omdat we hierdoor duidelijkheid creëren en procedures voor de borging van de kwaliteit van de toetsen eenvoudiger zijn.
+2. **Toetsvorm keuze van de docent**
+    - In onze opleiding willen wij docenten alle ruimte bieden om zelf een keuze te maken voor een toetsvorm die past bij de leerdoelen. Docenten hebben voldoende <dfn title="Met toetsbekwaamheid wordt in het toetsweb verwezen naar de deskundigheid die bij actoren binnen de opleiding aanwezig moet zijn om kwaliteit te realiseren op alle toetsentiteiten (Van Berkel, Sluijsmans & Joosten-ten Brinke, 2015). Specifiek voor de entiteit toetsen geldt dat de toetsbekwaamheid van docenten, examencommissies en andere betrokkenen van essentieel belang is: elke docent moet in staat zijn om toetsinformatie te interpreteren en te gebruiken om vast te stellen waar studenten staan en hoe deze informatie verder kan bijdragen aan het leren van de student (Straetmans, 2006). Voor meer informatie, zie ook www.toetsweb.nl. ">toetsbekwaamheid</dfn> om de juiste toetsvorm te kiezen of worden hierbij ondersteund door experts en adviseurs. Bijvoorbeeld omdat docenten hierdoor professionele ruimte ervaren doordat wij vertrouwen op hun expertise en professionaliteit.
+3. **Gevarieerd toetsprogramma**
+    - In onze opleiding willen wij dat docententeams een bewust samengesteld gevarieerd <dfn title="Een toetsprogramma is meer dan de optelsom van alle toetsen van een opleiding. Een toetsprogramma is ook meer dan een willekeurige mix van toetsvormen. Van een programma is pas sprake als de combinatie van toetsvormen bewust is samengesteld, passend bij de doelen, inhoud, opbouw en structuur van het curriculum (Berkel, Bax, & Joosten-ten Brinke, 2014). ">toetsprogramma</dfn> maken. Binnen het team is hiervoor voldoende toetsbekwaamheid of het team wordt hierbij ondersteund door experts en adviseurs. Bijvoorbeeld omdat door deze manier van werken we goed zicht hebben op het totale programma, waardoor de studeerbaarheid wordt vergroot. 
 
 # Dimensie 4 {.smaller data-background-color="#00617E"}
 
-* Plaats- & tijdonafhankelijk waar dat leren faciliteert
+> Plaats- & <dfn title="Studenten kunnen zelf de tijd kiezen waarop ze de toets maken.">tijdonafhankelijk</dfn> toetsen
 
-In deze dimensie gaat het om de vraag in hoeverre men flexibel wil zijn in de plaatsen en/of tijdstippen waarop toetsen kunnen worden afgenomen.
+In deze dimensie gaat het om de vraag in hoeverre men <dfn title="Flexibel onderwijs is onderwijs dat studenten keuzevrijheid biedt. Flexibel onderwijs kan te maken hebben met wat studenten leren (inhoudelijke keuzevrijheid, onderwijs passend bij hun achtergrond) en hoe studenten leren (op hun eigen tijd en plaats en in hun eigen tempo, op hun eigen niveau en manier).">flexibel<dfn> wil zijn in de plaatsen en tijdstippen waarop toetsen kunnen worden afgenomen.
 
-## Plaatsonafhankelijk {.smaller}
+## Plaatsonafhankelijk {.smallest}
 
-1. In onze opleiding willen we altijd toetsen op een daarvoor bestemde locatie op de campus, om te garanderen dat alle studenten onder dezelfde omstandigheden worden beoordeeld.
-2. In onze opleiding willen wij dat de locatie waar de toets wordt afgenomen in principe vaststaat (op een daarvoor bestemde locatie op de campus), maar als een student zwaarwegende redenen heeft, dan willen wij de gelegenheid bieden om de toets op een andere plaats af te leggen.
-3. In onze opleiding willen wij de student de ruimte geven om zelf te kiezen waar die de toets aflegt, om flexibiliteit te kunnen bieden.
+1. **Plaatsafhankelijk**
+    - In onze opleiding willen wij altijd studenten op dezelfde plaats toetsen. Bijvoorbeeld omdat we de afnamecondities voor de studenten zoveel mogelijk gelijk willen houden. 
+2. **Keuze hangt af van de toetsvorm**
+    - In onze opleiding willen wij dat de ontwerper van de toets bekijkt of er bij de gekozen toetsvorm mogelijkheden zijn om de student de afnameplek te laten kiezen. Plaatsonafhankelijkheid is geen doel op zich. Bijvoorbeeld studenten kunnen waar passend bij bepaalde <dfn title="Leeruitkomsten zijn datgene wat een student moet weten, begrijpen of toepassen na een leerperiode (NVAO, 2015).">leeruitkomsten</dfn> zelf kiezen waar ze een beroepsproduct maken.
+3. **Plaatsonafhankelijk **
+    - In onze opleiding willen wij dat <dfn title="Studenten kunnen zelf de locatie kiezen waar ze de toets maken.">plaatsonafhankelijkheid</dfn> van de toets gezien wordt als <dfn title="De ontwerpcriteria zijn de criteria waaraan een toets moet voldoen.">ontwerpcriterium</dfn>. Wij willen de student zoveel mogelijk de ruimte geven om zelf te kiezen waar die de toets aflegt. Bijvoorbeeld omdat we hiermee zorgen voor veel flexibiliteit voor studenten, dit vergroot de studeerbaarheid en de <dfn title="Als studenten zelf de regie nemen, staan docenten minder aan het roer. Studenten nemen zelf de verantwoording om tot leren te komen.  ">regie van studenten</dfn>. 
 
-## Tijdonafhankelijk {.smaller}
+## Tijdonafhankelijk {.smallest}
 
-1. In onze opleiding willen wij dat het moment waarop de toets wordt afgenomen voor iedereen gelijk is. Hierdoor worden alle studenten onder dezelfde omstandigheden beoordeeld en hoeven er geen extra maatregelen te worden getroffen om fraude tegen te gaan.
-2. In onze opleiding willen wij dat het moment waarop de toets wordt afgenomen in principe vaststaat, maar als een student zwaarwegende redenen heeft, dan willen wij de gelegenheid bieden om de toets op een ander moment af te leggen.
-3. In onze opleiding willen wij de student de ruimte geven om zelf te kiezen wanneer die de toets aflegt, om flexibiliteit te kunnen bieden.
+1. **Tijdafhankelijk**
+    - In onze opleiding willen wij dat het moment waarop de toets wordt afgenomen voor iedereen gelijk is. Bijvoorbeeld omdat het dan voor docenten en studenten duidelijk is wanneer de <dfn title="Het moment waarop de toets wordt afgenomen of ingeleverd. ">toetsmomenten</dfn> en herkansingen zijn.  
+2. **Keuze uit meerdere toetsmomenten **
+    - In onze opleiding willen wij studenten ruimte geven om zelf te kiezen wanneer zij de toets afleggen, door studenten meerdere toetsmomenten aan te bieden gedurende het jaar. Bijvoorbeeld om studenten ruimte te bieden om te versnellen of te vertragen en het ook werkbaar te houden voor docenten.  
+3. **Tijdonafhankelijk**
+    - In onze opleiding willen wij studenten zoveel mogelijk de ruimte geven om zelf te kiezen wanneer zij de toets afleggen. Hiermee zorgen we voor veel flexibiliteit voor studenten. 
 
 # Dimensie 5 {.smaller data-background-color="#00617E"}
 
-* Toetsproces in samenhang en in samenwerking gedigitaliseerd en georganiseerd
+> <dfn title="Het afnemen van toetsen impliceert meer dan het construeren van toetsvragen; het is een proces dat verschillende fasen en stappen kent (Berkel, Bax, & Joosten-ten Brinke, 2014).">Toetsproces</dfn> in samenhang en in samenwerking gedigitaliseerd en georganiseerd
 
-In deze dimensie gaat het ten eerste om de vraag in hoeverre men in een opleiding ondersteunende voorzieningen wil inrichten voor het toetsproces. De tweede vraag die centraal staat is in hoeverre men samenwerking tussen docenten op het gebied van toets- en/of itemconstructie wil stimuleren.
+In deze dimensie gaat het om de vraag in hoeverre digitale (toets)systemen samenhangen. Met samenhang wordt bedoeld dat de systemen met elkaar geïntegreerd zijn, zodat gegevens uitwisselbaar zijn. Bijvoorbeeld cijfers komen automatisch in registratiesystemen te staan. Een ander voorbeeld is dat de registratie van toetstijdverlengingen door de studentendecaan automatisch wordt gekoppeld aan de verlengde extra tijd in de <dfn title="De toetsapplicatie is de applicatie waarin de toets gemaakt wordt.">toetsapplicatie</dfn>. De tweede vraag die centraal staat is in hoeverre men bij het doorlopen van de <dfn title="De toetscyclus omvat het (cyclische) proces van ontwerpen, afnemen, nakijken, analyseren en evalueren van toetsen.">toetscyclus</dfn> samenwerking verwacht.
 
-## Samenhang {.smaller}
+## Samenhang {.smallest}
 
-1. In onze opleiding vinden wij autonomie en eigen verantwoordelijkheid van docenten in alle fasen van het toetsproces belangrijk. Wij willen niet dat digitale ondersteuningssystemen docenten belemmeren in hun vrijheid van toetsing. Wel willen wij voldoende mogelijkheden bieden voor docentprofessionalisering.
-2. In onze opleiding willen wij een deel van de toetsprocessen digitaal ondersteunen, maar ook ruimte bieden voor een eigen invulling door de docent.
-3. In onze opleiding willen wij dat op basis van eerder gemaakte keuzes processen worden ingericht en (digitale) hulpmiddelen in gebruik worden genomen die de docenten in het toetsproces vele taken uit handen nemen. Dit houdt ook in dat docenten zullen moeten werken binnen bepaalde kaders.
+1. **Geen prioriteit samenhang**
+    - In onze opleiding geven wij de samenhang van digitale systemen geen prioriteit. Bijvoorbeeld omdat er al veel tijd gaat naar de toetsing. We besteden daarom geen tijd aan het optimaal integreren van de systemen. 
+2. **Zo veel mogelijk samenhang**
+    - In onze opleiding willen wij ons toetsproces zo inrichten dat digitale systemen zo veel als mogelijk met elkaar samenhangen. Bijvoorbeeld omdat dan bepaalde processen uit de toetscyclus in ons toetsproces geautomatiseerd kunnen worden. 
+3. **Altijd samenhang**
+    - In onze opleiding willen wij ons toetsproces zo inrichten dat digitale systemen altijd met elkaar samenhangen. Docenten maken alleen gebruik van systemen die met elkaar geïntegreerd zijn. Bijvoorbeeld omdat het voor ons onderwijsconcept van belang is dat docenten dezelfde digitale systemen gebruiken. Deze systemen ondersteunen het onderwijs- en toetsproces. 
 
-## Samenwerking  {.smaller}
+## Samenwerking  {.smallest}
 
-1. In onze opleiding willen wij dat item- en/of toetsconstructie een aangelegenheid van individuele docenten is. Wij hebben vertrouwen in de expertise van docenten om zelf hun kwaliteitsborging te regelen.
-2. In onze opleiding willen wij dat docenten met andere docenten binnen de opleiding samenwerken bij item- en/of toetsconstructie, ten behoeve van de kwaliteitsborging.
-3. In onze opleiding willen wij dat toets- en/of itemconstructie een gezamenlijke aangelegenheid is. Items worden door betrokkenen binnen het vakgebied gemaakt in een gezamenlijke itembank.
+1. **Docenten werken samen**
+    - In onze opleiding willen wij dat docenten samenwerken bij het doorlopen van de toetscyclus. Bijvoorbeeld docenten werken samen aan een toetsmatrijs of kijken bij elkaar mee bij de evaluatie van een toets. 
+2. **In gezamenlijkheid binnen de opleiding**
+    - In onze opleiding willen wij dat het doorlopen van de toetscyclus een gezamenlijke aangelegenheid is van het gehele docententeam. Bijvoorbeeld omdat we het samenstellen van een gevarieerd <dfn title="Een toetsprogramma is meer dan de optelsom van alle toetsen van een opleiding. Een toetsprogramma is ook meer dan een willekeurige mix van toetsvormen. Van een programma is pas sprake als de combinatie van toetsvormen bewust is samengesteld, passend bij de doelen, inhoud, opbouw en structuur van het curriculum (Berkel, Bax, & Joosten-ten Brinke, 2014). ">toetsprogramma</dfn> als gedeelde verantwoordelijkheid zien.  
+3. **In gezamenlijkheid óók met partners**
+    - In onze opleiding willen wij dat het doorlopen van de toetscyclus een gezamenlijke aangelegenheid is van het gehele docententeam en partners (bijvoorbeeld werkveld, andere opleidingen, lectoraten). Bijvoorbeeld docenten en betrokkenen uit het vakgebied werken samen aan een gezamenlijke <dfn title="Een itembank is een digitale verzameling vragen die voor een toets gebruikt kunnen worden. De toetsvragen kunnen worden voorzien van kenmerken, zoals metadata, tags, trefwoorden en labels. Ook de resultaten van de toetsen en van de (psychometrische) analyses worden bewaard in de itembank. ">itembank</dfn>. 
 
-# Resultaten { data-background-color="#9E8E67"}
-
-## Radar diagram {.smaller}
-
-In de definitive versie zal in onderstaande diagram de ambities op de dimensies worden weergegeven.
-
-```{r}
-# Library
-# install.packages("fmsb")
-library("fmsb")
- 
-# Create data: note in High school for several students
-set.seed(99)
-data <- as.data.frame(matrix( sample( 0:20 , 15 , replace=F) , ncol=5))
-colnames(data) <- c("Dimensie 1" , "Dimensie 5" , "Dimensie 4" , "Dimensie 3" , "Dimensie 2" )
-rownames(data) <- paste("mister" , letters[1:3] , sep="-")
- 
-# To use the fmsb package, I have to add 2 lines to the dataframe: the max and min of each variable to show on the plot!
-data <- rbind(rep(20,5) , rep(0,5) , data)
- 
-# plot with default options:
-radarchart(data)
-```
-
-# Afsluiten
-
-Je kan de browser sluiten
+# {data-background-color="#9E8E67"}

@@ -3,3 +3,49 @@
   min-height: 290px;
   
 }
+
+.smallest {
+  font-size: 60%;
+}
+
+.reveal ul > li {
+  list-style-type: none;
+  margin-left: -40px;
+  padding: 0;
+}
+
+.reveal blockquote {
+  color: #FFF;
+}
+
+dfn[title] {
+    position: relative;
+    cursor: pointer;
+    text-decoration: underline;
+}
+dfn[title]::after {
+    content: attr(title);
+    width: 400px;
+    position: absolute;
+    display: block;
+    background-color: #121b22;
+    color: #c8cccf;
+    font-size: 16px;
+    bottom: 100%;
+    white-space: wrap;
+    padding: 10px;
+    border-radius: 6px;
+    left: 30%;
+    transform: scale(0);
+    transition: ease-out 300ms;
+}
+dfn[title]:hover::after {
+    transform: scale(1);
+}
+
+.repeat {
+  border: dashed grey 2px;
+  padding: 0 20px 0 20px;
+  margin: 0 -20px 0 -20px;
+  border-radius: 20px;
+}

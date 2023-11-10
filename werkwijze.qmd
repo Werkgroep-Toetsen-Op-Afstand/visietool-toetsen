@@ -1,13 +1,23 @@
 ---
 titel: "Werkwijze"
+format:
+  html:
+    toc: true
+    toc-location: left
+    smooth-scroll: true
 ---
-
-## Voorbereiding
 
 ::: {.lead}
 
-Dit instrument is het beste in te zetten als gesprekstool met een multidisciplinair team (denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, etc.) van 5-7 personen, onder begeleiding van een moderator. Nodig als moderator de relevante betrokkenen uit voor een sessie met de visietool, vraag hen om hun telefoon of laptop mee te nemen, het rapport [Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/) voorafgaand aan de sessie te lexen, en reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur.
-Bij het gebruik van de visietool hoort een Mentimeter. Open van tevoren de Mentimeter (via de link onder deze instructie) in je eigen Mentimeteraccount of dat van je organisatie, of maak hiervoor een (gratis) account aan. Mogelijk verschijnt er de melding ‘This presentation uses features that are not included in your plan’, deze melding kun je negeren. In de ‘Presenter notes’ onder de dia’s van de Mentimeter staan instructies voor de moderator; neem deze ter voorbereiding op de sessie door.
+De Visietool (digitaal) toetsen is het beste in te zetten als gesprekstool in een sessie: 
+
+* van ongeveer **1,5 à 2 uur**;  
+* met **5-7 personen**; 
+* met een **multidisciplinair team**, denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, ICTO Coach, etc.;  
+* onder begeleiding van een **moderator**; 
+* met een **notulist**. 
+
+De Visietool bestaat uit dimensies met componenten en stellingen op een webpagina en/of een hand-out, en een mentimeter. Hieronder staan de stappen beschreven die de moderator doorloopt om een sessie met de Visietool te begeleiden.  
 
 :::
 
@@ -19,11 +29,12 @@ Bij het gebruik van de visietool hoort een Mentimeter. Open van tevoren de Menti
 
 ::: {.card-body}
 
-## Mentimeter {.card-title}
+## Stellingen & Mentimeter {.card-title}
 
 ::: {.card-text}
 
-* [Open hier de mentimeter template](https://www.mentimeter.com/app/presentation/al8gr92ngyp28nt56zacqwvbdykzxs6w/rnbnwsc71ztj/edit){.link-light}
+* [Presentatie stellingen visietool](visietool_toetsen.qmd){.link-light}
+* [Open hier de mentimeter template](){.link-light}
 
 Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: "Copy to your account".
 
@@ -45,7 +56,7 @@ Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: "Copy to your 
 
 ::: {.card-text}
 
-* [Handout stellingen visietool](dimensies-stellingen-handout.pdf){.link-light}
+* [Handout stellingen visietool](Definitief_Handout_Vijf_dimensie_visietool_incl_begrippenlijst.pdf){.link-light}
 * [Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/){.link-light}
 
 :::
@@ -58,24 +69,79 @@ Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: "Copy to your 
 
 :::
 
-## De sessie
 
-Begeleid de betrokkenen stap voor stap (elke stap heeft een eigen dia) door de sessie heen, tot aan het eind voor elk van de vijf dimensies een gezamenlijk besluit is genomen over welke schaalpunten bij welke componenten men het beste vindt passen bij hoe men de toetsing in de (toekomstige) opleiding voor zich ziet, en een verantwoording hiervan is vastgelegd.
+## Voorbereiding voor de moderator
 
-* Stap 1: Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de visietool.
-* Stap 2: Start vervolgens de Mentimeter op en laat de betrokkenen met hun laptop of telefoon deelnemen aan de Mentimeter door de code die bovenin de dia’s van de presentatie staat in te vullen in www.menti.com.
-* Stap 3: Bij iedere dimensie wordt gestart met het lezen van de beschrijving van deze dimensie. Vervolgens krijgen de betrokkenen per component van deze dimensie ongeveer 2 minuten de tijd om de stellingen bij de drie schaalpunten te lezen en om voor zichzelf een onderbouwde keuze te maken voor één van deze stellingen: welke stelling past volgens hen het beste bij hoe zij de opleiding (in de toekomst) voor zich zien? De betrokkenen noteren voor zichzelf hun keuze met hun verantwoording daarvan.
-* Stap 4: Vervolgens vullen de betrokkenen in de Mentimeter in welke posities (schaalpunten) zij hebben gekozen bij de twee componenten van deze dimensie. 
-* Stap 5: Laat hen nu hun keuzes verantwoorden en laat hen met elkaar in gesprek gaan over de overeenkomsten en verschillen in opvattingen, met als doel om tot een gezamenlijk besluit te komen. Neem hier ongeveer 5 tot 7 minuten de tijd voor.
-* Stap 6: Vraag de betrokkenen tot welk besluit zij zijn gekomen voor de posities op de twee componenten van de dimensie en vraag hen om een verantwoording hiervan. Laat één van de betrokkenen de verantwoording in Mentimeter invullen. Neem hier ongeveer 2 tot 3 minuten de tijd voor.
+Bereid als moderator de sessie als volgt voor:
 
-Herhaal stap 3 t/m 6 voor elke dimensie.
+1. Zorg voor een multidisciplinair team van 5 tot 7 personen waarmee je na wilt denken over de (digitale) toetsvisie. Je kunt ervoor kiezen om naast je rol als moderator ook zelf deel te nemen aan de discussie.  
+2. Reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur. 
+3. Nodig de relevante betrokkenen uit voor een sessie met de Visietool en vraag hen om voorafgaand aan de sessie [het rapport Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/) te lezen en hun telefoon of laptop naar de sessie mee te nemen.   
+4. Vraag één van de deelnemers om te notuleren tijdens de bijeenkomst. Het handigst is als deze notulist ook de tijd heeft om na afloop een eerste versie van een visie te kunnen schrijven op basis van de opgehaalde input. De notulist kan ook deelnemen aan de sessie. 
+5. Tijdens de sessie worden bij iedere dimensie vaste stappen doorlopen. Hierbij gebruik je de vetgedrukte producten, je vindt deze onder deze instructie.  
+    1. Alle deelnemers lezen de omschrijving van de dimensie en de uitwerking van de twee bijbehorende componenten op de drie-puntsschaal. Deze informatie kun je tijdens de bijeenkomst op twee manieren delen met de deelnemers: 
+        * door de [presentatie met dimensies, componenten en stellingen](visietool_toetsen.qmd) tijdens de bijeenkomst open te presenteren op een groot scherm. Als je als moderator je muis over bepaalde belangrijke begrippen beweegt, dan zie je de definitie van dat begrip verschijnen.  
+        * door voor iedere deelnemer een handout te printen waarop deze informatie staat en waar ook een begrippenlijst aan is toegevoegd. 
+    2. Na het lezen van de omschrijving bepalen alle deelnemers eerst individueel de eigen positie op de twee componenten en voeren deze in in de beschikbare Mentimeter. Open van tevoren de Mentimeter (via de link onder deze instructie) in je eigen Mentimeteraccount, dat van je organisatie, of maak hiervoor een (gratis) account aan. Mogelijk verschijnt er de melding ‘This presentation uses features that are not included in your plan’, deze melding kun je negeren. 
+    3. Deelnemers schrijven eventueel hun motivatie voor de scores op (in de handout). 
+    4. Vervolgens volgt er een plenaire discussie, waarbij de notulist zoveel mogelijk input vastlegt voor de visie op (digitaal) toetsen.  
 
-* Stap 7: Wanneer de laatste dimensie is behandeld, laat je de betrokkenen hun besluit over alle dimensies met de bijbehorende verantwoording vastleggen. Dit kan door in de Mentimeter van de moderator te klikken op [‘View results’ en vervolgens op ‘Download PDF’](View_results.png). Deel een kopie van dit pdf-bestand met alle betrokkenen.
 
-# Het vervolg
 
-Het invullen van de visietool vormt niet het eindpunt maar het startpunt van het bepalen van de visie van de opleiding. De gezamenlijk gekozen stellingen met bijbehorende verantwoording vormen input voor het (her)schrijven van de officiële visie van de opleiding. Laat de betrokkenen afspraken met elkaar maken over het (her)schrijven van deze officiële visie.
+
+ 
+## Benodigdheden voor tijdens de sessie
+
+* [Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/) 
+Vraag de deelnemers de toekomstperspectieven ter voorbereiding door te lezen 
+* [Mentimeter]()
+Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: “Copy to your account”. 
+* [Webpagina met dimensies, componenten en stellingen](visietool_toetsen.qmd) 
+Open deze pagina tijdens de sessie en laat deelnemers de informatie lezen voordat zij een keuze maken in de mentimeter 
+* [Handout met dimensies, componenten, stellingen en ruimte voor onderbouwing](Definitief_Handout_Vijf_dimensie_visietool_incl_begrippenlijst.pdf) 
+Je kunt ervoor kiezen om deze hand-out voor iedere deelnemer te printen, zodat zij de informatie op papier kunnen lezen en hun onderbouwing kunnen opschrijven.  
+
+## Tijdens de sessie 
+
+Begeleid de deelnemers stap voor stap door onderstaande procedure.  
+
+### Stap 1
+
+Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de Visietool. Licht hier ook toe wie de moderator en wie de notulist is.
+
+### Stap 2
+
+Start de Mentimeter op, klik op ‘Present’, en laat de betrokkenen met hun laptop of telefoon deelnemen aan de Mentimeter door de code die bovenin de dia’s van de presentatie staat in te vullen in [www.menti.com](www.menti.com).  
+
+:::{.repeat}
+
+### Stap 3
+
+Vraag deelnemers de eerste dimensie en de bijbehorende twee componenten met stellingen te lezen op het scherm, of vanaf de uitgeprinte hand-out. Laat de deelnemers per component een keuze maken voor één van de stellingen op de driepuntsschaal: welke stelling past volgens hen het beste bij hoe zij de opleiding (in de toekomst) voor zich zien? Licht toe dat de schuingedrukte zinnen bij de stellingen mogelijke verantwoordingen zijn, en deze niet van toepassing hoeven te zijn. De deelnemers kunnen voor zichzelf hun keuze en hun motivatie daarvoor op de hand-out invullen. Vervolgens vullen de betrokkenen in de Mentimeter in welke posities (schaalpunten) zij hebben gekozen bij de twee componenten van deze dimensie. Geef voor deze stap maximaal 5 minuten de tijd. 
+
+### Stap 4
+
+Laat de groep nu de resultaten in de Mentimeter zien. Laat deelnemers hun keuzes onderbouwen en laat hen met elkaar in gesprek gaan over de overeenkomsten en verschillen in opvattingen, met als doel om tot een gezamenlijk besluit te komen. Neem hier ongeveer 10 minuten de tijd voor. Laat de notulist goed notuleren; het gaat niet om de uiteindelijke score, maar de onderbouwing ervan.  
+
+**Let op**: in de grafiek zie je niet altijd hoe vaak gescoord is op een item. Wanneer je de muis over de grafiek beweegt, kun je dit wel zien. 
+
+**Herhaal stap 3 en 4 voor elke dimensie.**
+
+:::
+
+### Stap 5
+
+Wanneer de laatste dimensie is behandeld, kun je de resultaten vastleggen door in de Mentimeter van de moderator te klikken op [‘View results’ en vervolgens op ‘Download PDF’](https://werkgroep-toetsen-op-afstand.github.io/visietool-toetsen/View_results.png). Deel een kopie van dit pdf-bestand met alle betrokkenen.
+
+## Het vervolg
+
+Het invullen van de Visietool vormt niet het eindpunt maar het startpunt van het bepalen van de visie van de opleiding. De gezamenlijk gekozen stellingen met bijbehorende verantwoording vormen input voor het (her)schrijven van de officiële visie van de opleiding. Laat de betrokkenen afspraken met elkaar maken over het (her)schrijven van deze officiële visie. 
+ 
 
 
 <!-- [Start](visietool_toetsen.qmd){.btn .btn-primary target="_blank"} -->
+
+```{r, echo=FALSE, eval=FALSE}
+rmarkdown::render("visietool_toetsen.qmd", output_format = "pdf_document")
+```
+

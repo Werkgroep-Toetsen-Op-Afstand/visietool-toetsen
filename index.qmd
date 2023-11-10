@@ -1,18 +1,12 @@
 ::: {.lead}
 
-Deze Visietool helpt om een visie te ontwikkelen op (digitaal) toetsen binnen een opleiding, faculteit of instelling. Als uitgangspunt gebruikt de tool het document Toekomstperspectief op (digitaal) toetsen en beoordelen.
-
-:::
-
-::: {.text-center}
-
-[Werkwijze](werkwijze.qmd){.btn .btn-primary target="_blank"}
+Deze Visietool helpt om een visie te ontwikkelen op (digitaal) toetsen binnen een opleiding, faculteit/academie of instelling. Als uitgangspunt gebruikt de tool het document Toekomstperspectief op (digitaal) toetsen en beoordelen. 
 
 :::
 
 ## Toekomstperspectief op (digitaal) toetsen en beoordelen
 
-De [werkgroep Toetsen](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/) van het [Versnellings plan](https://www.versnellingsplan.nl) ontwikkelde in 2022 het [toekomstperspectief voor toetsen en beoordelen in 2027](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/). Het is gebaseerd op een analyse van trends rond toetsing in het hoger onderwijs. Onder leiding van bureau Turner en samen met SURF en een kleine 50 experts uit mbo, hbo en wo is vervolgens het perspectief ingekleurd.
+De [werkgroep Toetsen](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/) van het [Versnellings plan](https://www.versnellingsplan.nl) ontwikkelde in 2022 het [toekomstperspectief voor toetsen en beoordelen in 2027](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/). Dit toekomstperspectief is gebaseerd op een analyse van trends rond toetsing in het hoger onderwijs en de inbreng van ruim 50 experts uit mbo, hbo en wo. 
 
 ## Vijf dimensies
 
@@ -25,9 +19,13 @@ Een uitgebreide toelichting op de dimensies is terug te lezen in het Toekomstper
 4.	Plaats- en tijdonafhankelijk toetsen
 5.	Toetsproces in samenhang en in samenwerking gedigitaliseerd en georganiseerd
 
-## Uitwerking per dimensie
+## Opzet Visietool
 
-De Visietool helpt om per dimensie het gesprek aan te gaan over de invulling ervan. Iedere dimensie is opgesplitst in twee componenten (bijvoorbeeld voor de eerste dimensie: een component Formatief en een component Summatief). Vervolgens bevat elke component drie schaalpunten. Elk schaalpunt bevat een stelling met een inhoudelijke concretisering en een (mogelijke) verantwoording.
-Gebruikers van de Visietool kiezen voor elke component het schaalpunt van de stelling die zij het beste vinden passen (let op: het hoeft niet perfect te passen, het gaat erom het gesprek op gang te brengen) bij hun opleiding en de ambities die zij hiervoor hebben. Het invulveld in de tool biedt de mogelijkheid een verantwoording bij de keuze op te  schrijven.
+De Visietool helpt om per dimensie het gesprek aan te gaan over de invulling ervan. Iedere dimensie is opgesplitst in twee componenten (bijvoorbeeld voor de eerste dimensie: een component Formatief en een component Summatief). Elke component bevat drie schaalpunten die een stelling met een inhoudelijke concretisering en een mogelijke verantwoording omvat. Gebruikers van de Visietool kiezen voor elke component eerst individueel het schaalpunt van de stelling die zij het beste vinden passen bij hun opleiding (let op: het hoeft niet perfect te passen, het gaat erom het gesprek op gang te brengen) en de ambities die zij hiervoor hebben. Vervolgens gaan zij met elkaar het gesprek hierover aan. 
+N.B. het is niet zo dat schaalpunt 3 te allen tijde ‘de beste keuze’ is. Welk schaalpunt de meest passende keuze is, kan voor iedere opleiding verschillend zijn. 
 
-N.B. het is niet zo dat schaalpunt 3 te allen tijde ‘de beste keuze’ zou zijn. Welk schaalpunt de beste keuze is, kan voor iedere opleiding verschillend zijn.
+::: {.text-center}
+
+[Werkwijze](werkwijze.qmd){.btn .btn-primary target="_blank"}
+
+:::

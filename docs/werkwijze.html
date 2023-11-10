@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.280">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,15 +55,17 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -74,17 +76,23 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Visietool Toetsen</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./werkwijze.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Werkwijze</span></a>
+  </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -92,27 +100,54 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#voorbereiding-voor-de-moderator" id="toc-voorbereiding-voor-de-moderator" class="nav-link active" data-scroll-target="#voorbereiding-voor-de-moderator">Voorbereiding voor de moderator</a></li>
+  <li><a href="#benodigdheden-voor-tijdens-de-sessie" id="toc-benodigdheden-voor-tijdens-de-sessie" class="nav-link" data-scroll-target="#benodigdheden-voor-tijdens-de-sessie">Benodigdheden voor tijdens de sessie</a></li>
+  <li><a href="#tijdens-de-sessie" id="toc-tijdens-de-sessie" class="nav-link" data-scroll-target="#tijdens-de-sessie">Tijdens de sessie</a>
+  <ul class="collapse">
+  <li><a href="#stap-1" id="toc-stap-1" class="nav-link" data-scroll-target="#stap-1">Stap 1</a></li>
+  <li><a href="#stap-2" id="toc-stap-2" class="nav-link" data-scroll-target="#stap-2">Stap 2</a></li>
+  <li><a href="#stap-5" id="toc-stap-5" class="nav-link" data-scroll-target="#stap-5">Stap 5</a></li>
+  </ul></li>
+  <li><a href="#het-vervolg" id="toc-het-vervolg" class="nav-link" data-scroll-target="#het-vervolg">Het vervolg</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
-<section id="voorbereiding" class="level2">
-<h2 class="anchored" data-anchor-id="voorbereiding">Voorbereiding</h2>
 <div class="lead">
-<p>Dit instrument is het beste in te zetten als gesprekstool met een multidisciplinair team (denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, etc.) van 5-7 personen, onder begeleiding van een moderator. Nodig als moderator de relevante betrokkenen uit voor een sessie met de visietool, vraag hen om hun telefoon of laptop mee te nemen, het rapport <a href="https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/">Toekomstperspectief op (digitaal) toetsen en beoordelen</a> voorafgaand aan de sessie te lexen, en reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur. Bij het gebruik van de visietool hoort een Mentimeter. Open van tevoren de Mentimeter (via de link onder deze instructie) in je eigen Mentimeteraccount of dat van je organisatie, of maak hiervoor een (gratis) account aan. Mogelijk verschijnt er de melding ‘This presentation uses features that are not included in your plan’, deze melding kun je negeren. In de ‘Presenter notes’ onder de dia’s van de Mentimeter staan instructies voor de moderator; neem deze ter voorbereiding op de sessie door.</p>
+<p>De Visietool (digitaal) toetsen is het beste in te zetten als gesprekstool in een sessie:</p>
+<ul>
+<li>van ongeveer <strong>1,5 à 2 uur</strong>;<br>
+</li>
+<li>met <strong>5-7 personen</strong>;</li>
+<li>met een <strong>multidisciplinair team</strong>, denk aan: onderwijsadviseur, toetsdeskundige, opleidingsdirecteur, examencommissie, opleidingscommissie, docent, ICTO Coach, etc.;<br>
+</li>
+<li>onder begeleiding van een <strong>moderator</strong>;</li>
+<li>met een <strong>notulist</strong>.</li>
+</ul>
+<p>De Visietool bestaat uit dimensies met componenten en stellingen op een webpagina en/of een hand-out, en een mentimeter. Hieronder staan de stappen beschreven die de moderator doorloopt om een sessie met de Visietool te begeleiden.</p>
 </div>
-</section>
 <div class="grid">
 <div class="g-col-12 g-col-md-6">
 <div class="card text-white bg-primary rounded-3 mx-auto">
-<section id="mentimeter" class="level2 card-title card-body">
-<h2 class="card-title anchored" data-anchor-id="mentimeter">Mentimeter</h2>
+<section id="stellingen-mentimeter" class="level2 card-title card-body">
+<h2 class="card-title anchored" data-anchor-id="stellingen-mentimeter">Stellingen &amp; Mentimeter</h2>
 <div class="card-text">
 <ul>
-<li><a href="https://www.mentimeter.com/app/presentation/al8gr92ngyp28nt56zacqwvbdykzxs6w/rnbnwsc71ztj/edit" class="link-light">Open hier de mentimeter template</a></li>
+<li><a href="./visietool_toetsen.html" class="link-light">Presentatie stellingen visietool</a></li>
+<li><a href="" class="link-light">Open hier de mentimeter template</a></li>
 </ul>
 <p>Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: “Copy to your account”.</p>
 </div>
@@ -125,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="card-title anchored" data-anchor-id="documenten">Documenten</h2>
 <div class="card-text">
 <ul>
-<li><a href="dimensies-stellingen-handout.pdf" class="link-light">Handout stellingen visietool</a></li>
+<li><a href="Definitief_Handout_Vijf_dimensie_visietool_incl_begrippenlijst.pdf" class="link-light">Handout stellingen visietool</a></li>
 <li><a href="https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/" class="link-light">Toekomstperspectief op (digitaal) toetsen en beoordelen</a></li>
 </ul>
 </div>
@@ -133,25 +168,70 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<section id="de-sessie" class="level2">
-<h2 class="anchored" data-anchor-id="de-sessie">De sessie</h2>
-<p>Begeleid de betrokkenen stap voor stap (elke stap heeft een eigen dia) door de sessie heen, tot aan het eind voor elk van de vijf dimensies een gezamenlijk besluit is genomen over welke schaalpunten bij welke componenten men het beste vindt passen bij hoe men de toetsing in de (toekomstige) opleiding voor zich ziet, en een verantwoording hiervan is vastgelegd.</p>
+<section id="voorbereiding-voor-de-moderator" class="level2">
+<h2 class="anchored" data-anchor-id="voorbereiding-voor-de-moderator">Voorbereiding voor de moderator</h2>
+<p>Bereid als moderator de sessie als volgt voor:</p>
+<ol type="1">
+<li>Zorg voor een multidisciplinair team van 5 tot 7 personen waarmee je na wilt denken over de (digitale) toetsvisie. Je kunt ervoor kiezen om naast je rol als moderator ook zelf deel te nemen aan de discussie.<br>
+</li>
+<li>Reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur.</li>
+<li>Nodig de relevante betrokkenen uit voor een sessie met de Visietool en vraag hen om voorafgaand aan de sessie <a href="https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/">het rapport Toekomstperspectief op (digitaal) toetsen en beoordelen</a> te lezen en hun telefoon of laptop naar de sessie mee te nemen.<br>
+</li>
+<li>Vraag één van de deelnemers om te notuleren tijdens de bijeenkomst. Het handigst is als deze notulist ook de tijd heeft om na afloop een eerste versie van een visie te kunnen schrijven op basis van de opgehaalde input. De notulist kan ook deelnemen aan de sessie.</li>
+<li>Tijdens de sessie worden bij iedere dimensie vaste stappen doorlopen. Hierbij gebruik je de vetgedrukte producten, je vindt deze onder deze instructie.
+<ol type="1">
+<li>Alle deelnemers lezen de omschrijving van de dimensie en de uitwerking van de twee bijbehorende componenten op de drie-puntsschaal. Deze informatie kun je tijdens de bijeenkomst op twee manieren delen met de deelnemers:
 <ul>
-<li>Stap 1: Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de visietool.</li>
-<li>Stap 2: Start vervolgens de Mentimeter op en laat de betrokkenen met hun laptop of telefoon deelnemen aan de Mentimeter door de code die bovenin de dia’s van de presentatie staat in te vullen in www.menti.com.</li>
-<li>Stap 3: Bij iedere dimensie wordt gestart met het lezen van de beschrijving van deze dimensie. Vervolgens krijgen de betrokkenen per component van deze dimensie ongeveer 2 minuten de tijd om de stellingen bij de drie schaalpunten te lezen en om voor zichzelf een onderbouwde keuze te maken voor één van deze stellingen: welke stelling past volgens hen het beste bij hoe zij de opleiding (in de toekomst) voor zich zien? De betrokkenen noteren voor zichzelf hun keuze met hun verantwoording daarvan.</li>
-<li>Stap 4: Vervolgens vullen de betrokkenen in de Mentimeter in welke posities (schaalpunten) zij hebben gekozen bij de twee componenten van deze dimensie.</li>
-<li>Stap 5: Laat hen nu hun keuzes verantwoorden en laat hen met elkaar in gesprek gaan over de overeenkomsten en verschillen in opvattingen, met als doel om tot een gezamenlijk besluit te komen. Neem hier ongeveer 5 tot 7 minuten de tijd voor.</li>
-<li>Stap 6: Vraag de betrokkenen tot welk besluit zij zijn gekomen voor de posities op de twee componenten van de dimensie en vraag hen om een verantwoording hiervan. Laat één van de betrokkenen de verantwoording in Mentimeter invullen. Neem hier ongeveer 2 tot 3 minuten de tijd voor.</li>
-</ul>
-<p>Herhaal stap 3 t/m 6 voor elke dimensie.</p>
+<li>door de <a href="./visietool_toetsen.html">presentatie met dimensies, componenten en stellingen</a> tijdens de bijeenkomst open te presenteren op een groot scherm. Als je als moderator je muis over bepaalde belangrijke begrippen beweegt, dan zie je de definitie van dat begrip verschijnen.<br>
+</li>
+<li>door voor iedere deelnemer een handout te printen waarop deze informatie staat en waar ook een begrippenlijst aan is toegevoegd.</li>
+</ul></li>
+<li>Na het lezen van de omschrijving bepalen alle deelnemers eerst individueel de eigen positie op de twee componenten en voeren deze in in de beschikbare Mentimeter. Open van tevoren de Mentimeter (via de link onder deze instructie) in je eigen Mentimeteraccount, dat van je organisatie, of maak hiervoor een (gratis) account aan. Mogelijk verschijnt er de melding ‘This presentation uses features that are not included in your plan’, deze melding kun je negeren.</li>
+<li>Deelnemers schrijven eventueel hun motivatie voor de scores op (in de handout).</li>
+<li>Vervolgens volgt er een plenaire discussie, waarbij de notulist zoveel mogelijk input vastlegt voor de visie op (digitaal) toetsen.</li>
+</ol></li>
+</ol>
+</section>
+<section id="benodigdheden-voor-tijdens-de-sessie" class="level2">
+<h2 class="anchored" data-anchor-id="benodigdheden-voor-tijdens-de-sessie">Benodigdheden voor tijdens de sessie</h2>
 <ul>
-<li>Stap 7: Wanneer de laatste dimensie is behandeld, laat je de betrokkenen hun besluit over alle dimensies met de bijbehorende verantwoording vastleggen. Dit kan door in de Mentimeter van de moderator te klikken op <a href="View_results.png">‘View results’ en vervolgens op ‘Download PDF’</a>. Deel een kopie van dit pdf-bestand met alle betrokkenen.</li>
+<li><a href="https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/">Toekomstperspectief op (digitaal) toetsen en beoordelen</a> Vraag de deelnemers de toekomstperspectieven ter voorbereiding door te lezen</li>
+<li><a href="">Mentimeter</a> Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: “Copy to your account”.</li>
+<li><a href="./visietool_toetsen.html">Webpagina met dimensies, componenten en stellingen</a> Open deze pagina tijdens de sessie en laat deelnemers de informatie lezen voordat zij een keuze maken in de mentimeter</li>
+<li><a href="Definitief_Handout_Vijf_dimensie_visietool_incl_begrippenlijst.pdf">Handout met dimensies, componenten, stellingen en ruimte voor onderbouwing</a> Je kunt ervoor kiezen om deze hand-out voor iedere deelnemer te printen, zodat zij de informatie op papier kunnen lezen en hun onderbouwing kunnen opschrijven.</li>
 </ul>
 </section>
-<section id="het-vervolg" class="level1">
-<h1>Het vervolg</h1>
-<p>Het invullen van de visietool vormt niet het eindpunt maar het startpunt van het bepalen van de visie van de opleiding. De gezamenlijk gekozen stellingen met bijbehorende verantwoording vormen input voor het (her)schrijven van de officiële visie van de opleiding. Laat de betrokkenen afspraken met elkaar maken over het (her)schrijven van deze officiële visie.</p>
+<section id="tijdens-de-sessie" class="level2">
+<h2 class="anchored" data-anchor-id="tijdens-de-sessie">Tijdens de sessie</h2>
+<p>Begeleid de deelnemers stap voor stap door onderstaande procedure.</p>
+<section id="stap-1" class="level3">
+<h3 class="anchored" data-anchor-id="stap-1">Stap 1</h3>
+<p>Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de Visietool. Licht hier ook toe wie de moderator en wie de notulist is.</p>
+</section>
+<section id="stap-2" class="level3">
+<h3 class="anchored" data-anchor-id="stap-2">Stap 2</h3>
+<p>Start de Mentimeter op, klik op ‘Present’, en laat de betrokkenen met hun laptop of telefoon deelnemen aan de Mentimeter door de code die bovenin de dia’s van de presentatie staat in te vullen in <a href="www.menti.com">www.menti.com</a>.</p>
+</section>
+<div class="repeat">
+<section id="stap-3" class="level3">
+<h3 class="anchored" data-anchor-id="stap-3">Stap 3</h3>
+<p>Vraag deelnemers de eerste dimensie en de bijbehorende twee componenten met stellingen te lezen op het scherm, of vanaf de uitgeprinte hand-out. Laat de deelnemers per component een keuze maken voor één van de stellingen op de driepuntsschaal: welke stelling past volgens hen het beste bij hoe zij de opleiding (in de toekomst) voor zich zien? Licht toe dat de schuingedrukte zinnen bij de stellingen mogelijke verantwoordingen zijn, en deze niet van toepassing hoeven te zijn. De deelnemers kunnen voor zichzelf hun keuze en hun motivatie daarvoor op de hand-out invullen. Vervolgens vullen de betrokkenen in de Mentimeter in welke posities (schaalpunten) zij hebben gekozen bij de twee componenten van deze dimensie. Geef voor deze stap maximaal 5 minuten de tijd.</p>
+</section>
+<section id="stap-4" class="level3">
+<h3 class="anchored" data-anchor-id="stap-4">Stap 4</h3>
+<p>Laat de groep nu de resultaten in de Mentimeter zien. Laat deelnemers hun keuzes onderbouwen en laat hen met elkaar in gesprek gaan over de overeenkomsten en verschillen in opvattingen, met als doel om tot een gezamenlijk besluit te komen. Neem hier ongeveer 10 minuten de tijd voor. Laat de notulist goed notuleren; het gaat niet om de uiteindelijke score, maar de onderbouwing ervan.</p>
+<p><strong>Let op</strong>: in de grafiek zie je niet altijd hoe vaak gescoord is op een item. Wanneer je de muis over de grafiek beweegt, kun je dit wel zien.</p>
+<p><strong>Herhaal stap 3 en 4 voor elke dimensie.</strong></p>
+</section>
+</div>
+<section id="stap-5" class="level3">
+<h3 class="anchored" data-anchor-id="stap-5">Stap 5</h3>
+<p>Wanneer de laatste dimensie is behandeld, kun je de resultaten vastleggen door in de Mentimeter van de moderator te klikken op <a href="https://werkgroep-toetsen-op-afstand.github.io/visietool-toetsen/View_results.png">‘View results’ en vervolgens op ‘Download PDF’</a>. Deel een kopie van dit pdf-bestand met alle betrokkenen.</p>
+</section>
+</section>
+<section id="het-vervolg" class="level2">
+<h2 class="anchored" data-anchor-id="het-vervolg">Het vervolg</h2>
+<p>Het invullen van de Visietool vormt niet het eindpunt maar het startpunt van het bepalen van de visie van de opleiding. De gezamenlijk gekozen stellingen met bijbehorende verantwoording vormen input voor het (her)schrijven van de officiële visie van de opleiding. Laat de betrokkenen afspraken met elkaar maken over het (her)schrijven van deze officiële visie.</p>
 <!-- [Start](visietool_toetsen.qmd){.btn .btn-primary target="_blank"} -->
 
 
@@ -185,9 +265,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -252,6 +346,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -295,4 +475,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
