@@ -34,7 +34,7 @@ De Visietool bestaat uit dimensies met componenten en stellingen op een webpagin
 ::: {.card-text}
 
 * [Presentatie stellingen visietool](visietool_toetsen.qmd){.link-light}
-* [Open hier de mentimeter template](){.link-light}
+* [Open hier de mentimeter template](https://www.mentimeter.com/app/presentation/al85wxmwcturymgcdsjsenu7cs9wfnar/fjdn9teuz6cz){.link-light}
 
 Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: "Copy to your account".
 
@@ -94,7 +94,7 @@ Bereid als moderator de sessie als volgt voor:
 
 * [Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/) 
 Vraag de deelnemers de toekomstperspectieven ter voorbereiding door te lezen 
-* [Mentimeter]()
+* [Mentimeter](https://www.mentimeter.com/app/presentation/al85wxmwcturymgcdsjsenu7cs9wfnar/fjdn9teuz6cz)
 Voeg de mentimeter toe aan je eigen account. Knop rechts onderin: “Copy to your account”. 
 * [Webpagina met dimensies, componenten en stellingen](visietool_toetsen.qmd) 
 Open deze pagina tijdens de sessie en laat deelnemers de informatie lezen voordat zij een keuze maken in de mentimeter 
