@@ -50,7 +50,7 @@ Tijdens de sessie wordt een mentimeter gebruikt. Voeg de mentimeter toe aan je e
 ::: {.card-text}
 
 * [Presentatie stellingen visietool](visietool_toetsen.qmd){.link-light}
-* [Open hier de mentimeter template](https://www.mentimeter.com/app/presentation/al85wxmwcturymgcdsjsenu7cs9wfnar/fjdn9teuz6cz){.link-light}
+* [Open hier de mentimeter template](https://www.mentimeter.com/app/presentation/n/albx6yapo5dwg64cjiwedcrpbcynvcc2/invite?utm_campaign=Invited%20to%20collaborate%20on%20presentation&utm_content=Email%231%3A%20Invite%20to%20collaborate%20-%20name%20%2B%20last%20name%20exists&utm_medium=email&utm_source=transactional){.link-light}
 
 
 :::
