@@ -94,7 +94,7 @@ Bereid als moderator de sessie als volgt voor:
 2. Reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur. 
 3. Nodig de relevante betrokkenen uit voor een sessie met de Visietool en vraag hen om voorafgaand aan de sessie [het rapport Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/) te lezen en hun telefoon of laptop naar de sessie mee te nemen.   
 4. Vraag één van de deelnemers om te notuleren tijdens de bijeenkomst. Het is handig als deze notulist ook de tijd heeft om na afloop een eerste versie van een visie te kunnen schrijven op basis van de opgehaalde input. De notulist kan ook deelnemen aan de sessie. 
-5. Aan het begin van de sessie geef je een korte introductie. Hiervoor kun je de PowerPoint of de [introductievideo](https://youtu.be/irJLWzgdX7g) gebruiken. 
+5. Aan het begin van de sessie geef je een korte introductie. Hiervoor kun je de [PowerPoint] (200924Introductievideo.pptx) of de [introductievideo](https://youtu.be/irJLWzgdX7g) gebruiken. 
 6. Tijdens de sessie worden bij iedere dimensie vaste stappen doorlopen. Hierbij gebruik je de vetgedrukte producten, je vindt deze onder deze instructie.  
     1. Alle deelnemers lezen de omschrijving van de dimensie en de stellingen bij de twee bijbehorende componenten. Deze informatie kun je tijdens de bijeenkomst op twee manieren delen met de deelnemers: 
         * door de [digitale versie van de stellingen](visietool_toetsen.qmd) te laten zien tijdens de bijeenkomst op een groot scherm of deelnemers deze open te laten zetten op een laptop. Als je als moderator je muis over bepaalde belangrijke begrippen beweegt, dan zie je de definitie van dat begrip verschijnen.  
@@ -109,7 +109,7 @@ Begeleid de deelnemers stap voor stap door onderstaande procedure.
 
 ### Stap 1
 
-Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de Visietool. Je kunt hier de [PowerPoint] (nog toevoegen) of de [Instructievideo] (https://youtu.be/irJLWzgdX7g) voor gebruiken. Licht hier toe dat jij de moderator bent en wie notuleert. 
+Geef aan de start van de sessie een korte toelichting op het doel en de werkwijze van de Visietool. Je kunt hier de [PowerPoint] (200924Introductievideo.pptx) of de [Instructievideo] (https://youtu.be/irJLWzgdX7g) voor gebruiken. Licht hier toe dat jij de moderator bent en wie notuleert. 
 
 ### Stap 2
 
