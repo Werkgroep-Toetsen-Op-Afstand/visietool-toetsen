@@ -20,61 +20,70 @@ De Visietool (digitaal) toetsen is het beste in te zetten als gesprekstool in ee
 
 De Visietool bestaat uit de volgende producten die ingezet kunnen worden bij een sessie:
 
-Stellingen:
+:::
+
+::: {.grid .column-page-right}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.card .text-white .bg-primary .rounded-3 .mx-auto .h-100}
+
+::: {.card-body}
+
+## Stellingen {.card-title}
+
+::: {.card-text}
+
 In de sessie heeft iedere deelnemer de stellingen voor zich. Dit kan digitaal of met de papieren handout.
 
-* Stellingen visietool digitaal
-* Handout stellingen visietool
-
-Introductie van de sessie:
-De sessie start met een introductie. De moderator kan deze introductie zelf geven met de daarvoor beschikbare powerpoint, of kan de introductievideo laten zien.
-* PowerPoint introductie sessie visietool
-* Introductievideo sessie visietool
-
-Mentimeter
-Tijdens de sessie wordt een mentimeter gebruikt. Voeg de mentimeter toe aan je eigen account, door het mentimeter template hier te openen en vervolgens rechtsonderin te kiezen voor "Copy to your account". 
-* Mentimenter template
-
+* [Presentatie stellingen visietool](visietool_toetsen.qmd){.link-light}
+* [Handout stellingen visietool](Definitief_Handout_Vijf_dimensie_visietool_incl_begrippenlijst.pdf){.link-light}
 
 :::
 
-::: {.grid}
+:::
 
-::: {.g-col-12 .g-col-md-6}
+:::
 
-::: {.card .text-white .bg-primary .rounded-3 .mx-auto}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.card .text-white .bg-primary .rounded-3 .mx-auto .h-100}
 
 ::: {.card-body}
 
-## Stellingen & Mentimeter {.card-title}
+## Sessie introductie {.card-title}
 
 ::: {.card-text}
 
-* [Presentatie stellingen visietool](visietool_toetsen.qmd){.link-light}
+De sessie start met een introductie. De moderator kan deze introductie zelf geven met de daarvoor beschikbare powerpoint, of kan de introductievideo laten zien.
+
+* [PowerPoint introductie sessie visietool](200924Introductievideo.pptx){.link-light}
+* [Introductievideo sessie visietool](https://youtu.be/irJLWzgdX7g){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.card .text-white .bg-primary .rounded-3 .mx-auto .h-100}
+
+::: {.card-body}
+
+## Mentimeter {.card-title}
+
+::: {.card-text}
+
+Tijdens de sessie wordt een mentimeter gebruikt. Voeg de mentimeter toe aan je eigen account, door het mentimeter template hier te openen en vervolgens rechtsonderin te kiezen voor "Copy to your account". 
+
 * [Open hier de mentimeter template](https://www.mentimeter.com/app/presentation/n/albx6yapo5dwg64cjiwedcrpbcynvcc2/invite?utm_campaign=Invited%20to%20collaborate%20on%20presentation&utm_content=Email%231%3A%20Invite%20to%20collaborate%20-%20name%20%2B%20last%20name%20exists&utm_medium=email&utm_source=transactional){.link-light}
 
-
-:::
-
-:::
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-md-6}
-
-::: {.card .text-white .bg-primary .rounded-3 .mx-auto}
-
-::: {.card-body}
-
-## Documenten {.card-title}
-
-::: {.card-text}
-
-* [Handout stellingen visietool](Definitief_Handout_Vijf_dimensie_visietool_incl_begrippenlijst.pdf){.link-light}
-* [Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/){.link-light}
-
 :::
 
 :::
@@ -85,6 +94,8 @@ Tijdens de sessie wordt een mentimeter gebruikt. Voeg de mentimeter toe aan je e
 
 :::
 
+
+<br>
 
 ## Voorbereiding voor de moderator
 
@@ -94,7 +105,7 @@ Bereid als moderator de sessie als volgt voor:
 2. Reserveer een ruimte met een beeldscherm/projectorscherm. Ga voor de sessie uit van een tijdsduur van 1,5 à 2 uur. 
 3. Nodig de relevante betrokkenen uit voor een sessie met de Visietool en vraag hen om voorafgaand aan de sessie [het rapport Toekomstperspectief op (digitaal) toetsen en beoordelen](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/) te lezen en hun telefoon of laptop naar de sessie mee te nemen.   
 4. Vraag één van de deelnemers om te notuleren tijdens de bijeenkomst. Het is handig als deze notulist ook de tijd heeft om na afloop een eerste versie van een visie te kunnen schrijven op basis van de opgehaalde input. De notulist kan ook deelnemen aan de sessie. 
-5. Aan het begin van de sessie geef je een korte introductie. Hiervoor kun je de [PowerPoint] (200924Introductievideo.pptx) of de [introductievideo](https://youtu.be/irJLWzgdX7g) gebruiken. 
+5. Aan het begin van de sessie geef je een korte introductie. Hiervoor kun je de [PowerPoint](200924Introductievideo.pptx) of de [introductievideo](https://youtu.be/irJLWzgdX7g) gebruiken. 
 6. Tijdens de sessie worden bij iedere dimensie vaste stappen doorlopen. Hierbij gebruik je de vetgedrukte producten, je vindt deze onder deze instructie.  
     1. Alle deelnemers lezen de omschrijving van de dimensie en de stellingen bij de twee bijbehorende componenten. Deze informatie kun je tijdens de bijeenkomst op twee manieren delen met de deelnemers: 
         * door de [digitale versie van de stellingen](visietool_toetsen.qmd) te laten zien tijdens de bijeenkomst op een groot scherm of deelnemers deze open te laten zetten op een laptop. Als je als moderator je muis over bepaalde belangrijke begrippen beweegt, dan zie je de definitie van dat begrip verschijnen.  
