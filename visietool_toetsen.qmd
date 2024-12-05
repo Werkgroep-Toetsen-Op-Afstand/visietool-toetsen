@@ -17,7 +17,7 @@ format:
 
 In deze dimensie gaat het om de vraag hoe de verschillende doelen waarvoor een toets kan worden ingezet zich tot elkaar verhouden. Bij een <dfn title="Toetsing waarbij het leren van de toets voorop staat. Vanuit de literatuur wordt hierbij aanbevolen om af te zien van het geven van cijfers . Door met toetsopgaven aan de slag te gaan en te leren van fouten en feedback wordt het leerproces gestimuleerd. Er wordt niet gestreefd naar een bepaald minimaal te behalen niveau. Soms ook aangeduid met Assessment for Learning of Assessment as Learning. ">formatieve</dfn> inzet wordt het toetsen van studenten gebruikt om het leren te stimuleren en te besluiten over de beste vervolgstappen in het onderwijs. Bij een summatieve inzet wordt het toetsen gebruikt om vast te stellen of voldoende geleerd is en te besluiten over de kwalificatie van de student. Een formatief en een summatief gebruik van toetsen sluiten elkaar niet uit. Zo kan een toets die in eerste instantie voor summatief gebruik bedoeld is bijvoorbeeld ook op een formatieve manier worden ingezet.
 
-## Dimensie 1 bij programmatisch toetsen
+## Toelichting Dimensie 1 bij programmatisch toetsen
 
 Bij programmatisch toetsen wordt het onderscheid formatief en summatief vervangen door de mate waarin er voor de student iets op het spel staat. Als je werkt volgens de principes van programmatisch toetsen, kun je de termen formatief en summatief als volgt interpreteren: Bij formatief gaat het over het gebruik van de informatie uit datapunten voor het leerproces (low en medium stakes beslissingen). Bij summatief gaat het over het gebruik van de informatie uit datapunten om een zwaarwegende beslissing (high stakes beslissing) te nemen over de bekwaamheid van de student.
 
@@ -138,5 +138,11 @@ In deze dimensie gaat het over de inrichting van systemen. Wellicht heb je het g
     - In onze opleiding willen wij dat het doorlopen van de toetscyclus een gezamenlijke aangelegenheid is van het gehele docententeam. _Bijvoorbeeld omdat we het samenstellen van een gevarieerd <dfn title="Een toetsprogramma is meer dan de optelsom van alle toetsen van een opleiding. Een toetsprogramma is ook meer dan een willekeurige mix van toetsvormen. Van een programma is pas sprake als de combinatie van toetsvormen bewust is samengesteld, passend bij de doelen, inhoud, opbouw en structuur van het curriculum (Berkel, Bax, & Joosten-ten Brinke, 2014). ">toetsprogramma</dfn> als gedeelde verantwoordelijkheid zien._  
 3. **In gezamenlijkheid óók met partners**
     - In onze opleiding willen wij dat het doorlopen van de toetscyclus een gezamenlijke aangelegenheid is van het gehele docententeam en partners (Bijvoorbeeld werkveld, andere opleidingen, lectoraten/practoraten en examenleveranciers). _Bijvoorbeeld docenten en betrokkenen uit het vakgebied werken samen aan een gezamenlijke <dfn title="Een itembank is een digitale verzameling vragen die voor een toets gebruikt kunnen worden. De toetsvragen kunnen worden voorzien van kenmerken, zoals metadata, tags, trefwoorden en labels. Ook de resultaten van de toetsen en van de (psychometrische) analyses worden bewaard in de itembank. ">itembank</dfn>. _
+
+# Succes! {.smaller data-background-color="#00617E"}
+
+Bedankt voor het gebruiken van de Visietool! Succes bij het verder uitwerken van jullie visie op (digitaal) toetsen. 
+Mochten jullie nog vragen hebben, mail dan naar: digitaaltoetsen@surf.nl 
+
 
 # {data-background-color="#9E8E67"}
