@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Visietool Toetsen"
+  title: "Visietool Toetsen 2.0"
+  search: false
   navbar:
     background: '#F4D9DC'
     left:
@@ -11,6 +12,14 @@ website:
         text: Home
       - href: werkwijze.qmd
         text: Werkwijze
+    right:
+      - href: https://www.npuls.nl/
+        text: "<img src='images/npuls-logo.png' alt='NPULS' height='30'/>"
+        aria-label: NPULS
+      # - href: https://github.com/Werkgroep-Toetsen-Op-Afstand/visietool-toetsen
+      #   icon: github
+      #   aria-label: GitHub
+
 
 format:
   html:
@@ -18,3 +27,4 @@ format:
     # css: styles.css
     toc: false
     link-external-newwindow: false
+    
