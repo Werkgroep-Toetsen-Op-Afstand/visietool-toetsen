@@ -1,6 +1,14 @@
-::: {.lead}
+---
+layout: body-outset
+---
+
+::: { .column-screen style="background-color: #D6E2FD; margin: -65px 0 20px 0; padding: 60px 0 20px 0;" }
+
+::: {.column-page-inset}
 
 Deze Visietool helpt om een visie te ontwikkelen op (digitaal) toetsen binnen een opleiding, faculteit/academie of instelling. Als uitgangspunt gebruikt de tool het document Toekomstperspectief op (digitaal) toetsen en beoordelen. 
+
+:::
 
 :::
 
