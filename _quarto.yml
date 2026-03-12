@@ -8,24 +8,24 @@ website:
   navbar:
     logo: images/npuls-logo.png
     background: '#D6E2FD'
-    left:
-      - href: index.qmd
-        text: Home
-      - href: workshop.qmd
-        text: Workshop
-      - href: voorbereiding.qmd
-        text: Voorbereiding
-      - href: tijdens-workshop.qmd
-        text: Tijdens Workshop
-      - href: vervolg.qmd
-        text: Vervolg
-      - href: contact.qmd
-        text: Contact
+    # left:
+    #   - href: index.qmd
+    #     text: Home
+    #   - href: workshop.qmd
+    #     text: Workshop
+    #   - href: voorbereiding.qmd
+    #     text: Voorbereiding
+    #   - href: tijdens-workshop.qmd
+    #     text: Tijdens Workshop
+    #   - href: vervolg.qmd
+    #     text: Vervolg
+    #   - href: contact.qmd
+    #     text: Contact
 
-    right:
-      - text: "NL"
-      - menu:
-          - text: "EN"
+    # right:
+    #   - text: "NL"
+    #   - menu:
+    #       - text: "EN"
 
     #   - href: https://www.npuls.nl/
     #     text: "<img src='images/npuls-logo.png' alt='NPULS' height='30'/>"
