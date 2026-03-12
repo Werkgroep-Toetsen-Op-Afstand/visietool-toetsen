@@ -1,0 +1,183 @@
+---
+title: ""
+format:
+  typst:
+    margin:
+      top: 2cm
+      bottom: 2cm
+      left: 2.5cm
+      right: 2.5cm
+    font-size: 10pt
+    font-family: "Helvetica Neue"
+    paper: a4
+---
+
+```{=typst}
+// ── Colour palette ──────────────────────────────────────────────────────────
+#let accent   = rgb("#E8380D")   // Npuls orange-red
+#let darkgrey = rgb("#3C3C3C")
+#let lightgrey = rgb("#F2F2F2")
+#let midgrey  = rgb("#AAAAAA")
+
+// ── Helper: checkbox row ─────────────────────────────────────────────────────
+#let checkbox-row() = {
+  grid(
+    columns: (1fr, 1fr),
+    gutter: 8pt,
+    // Toekomst
+    rect(
+      width: 100%,
+      height: 28pt,
+      radius: 3pt,
+      stroke: 0.5pt + midgrey,
+      fill: lightgrey,
+      inset: 6pt,
+    )[
+      #grid(
+        columns: (14pt, 1fr),
+        gutter: 6pt,
+        rect(width: 12pt, height: 12pt, stroke: 0.8pt + darkgrey, radius: 2pt)[],
+        align(horizon)[#text(size: 8pt, fill: darkgrey)[*Toekomst*]]
+      )
+    ],
+    // Huidig
+    rect(
+      width: 100%,
+      height: 28pt,
+      radius: 3pt,
+      stroke: 0.5pt + midgrey,
+      fill: lightgrey,
+      inset: 6pt,
+    )[
+      #grid(
+        columns: (14pt, 1fr),
+        gutter: 6pt,
+        rect(width: 12pt, height: 12pt, stroke: 0.8pt + darkgrey, radius: 2pt)[],
+        align(horizon)[#text(size: 8pt, fill: darkgrey)[*Huidig*]]
+      )
+    ],
+  )
+}
+
+// ── Helper: option block ─────────────────────────────────────────────────────
+#let option-block(number, title, body) = {
+  block(
+    width: 100%,
+    inset: (x: 14pt, y: 12pt),
+    radius: 6pt,
+    stroke: 1pt + accent,
+    fill: white,
+    below: 14pt,
+  )[
+    // Number badge + title
+    #grid(
+      columns: (28pt, 1fr),
+      gutter: 8pt,
+      align(horizon)[
+        #circle(
+          radius: 12pt,
+          fill: accent,
+        )[
+          #align(center + horizon)[
+            #text(fill: white, weight: "bold", size: 11pt)[#number]
+          ]
+        ]
+      ],
+      align(horizon)[
+        #text(weight: "bold", size: 10.5pt, fill: darkgrey)[#title]
+      ]
+    )
+    #v(8pt)
+    #text(size: 9.5pt, fill: darkgrey)[#body]
+    #v(10pt)
+    #checkbox-row()
+  ]
+}
+
+// ── PAGE HEADER ──────────────────────────────────────────────────────────────
+#grid(
+  columns: (1fr, auto),
+  align(bottom)[
+    #text(size: 22pt, weight: "bold", fill: accent)[Dimensie 2] \
+    #text(size: 12pt, fill: darkgrey)[AI-bewust onderwijs en toetsen]
+  ],
+  align(right + bottom)[
+    #text(size: 13pt, weight: "bold", fill: accent)[Npuls]
+  ]
+)
+
+#line(length: 100%, stroke: 2pt + accent)
+#v(10pt)
+
+// ── COMPONENT TITLE ──────────────────────────────────────────────────────────
+#block(
+  width: 100%,
+  fill: accent,
+  inset: (x: 12pt, y: 8pt),
+  radius: 4pt,
+  below: 6pt,
+)[
+  #text(fill: white, weight: "bold", size: 11pt)[
+    Component 2: AI-gebruik bij toetsen met een summatieve functie/examineren
+  ]
+]
+
+#text(size: 9pt, fill: darkgrey)[
+  Kruis 1 optie die geldt voor de huidige situatie en 1 voor de toekomst. \
+  Onderaan is ruimte voor aantekeningen of toelichting.
+]
+
+#v(14pt)
+
+// ── OPTION 1 ─────────────────────────────────────────────────────────────────
+#option-block(
+  "1",
+  "AI-gebruik niet toestaan",
+  [
+    In onze opleidingen mogen studenten bij toetsen met een summatieve
+    functie/examinering in een gecontroleerde omgeving geen gebruik maken van AI.
+
+    _Bijvoorbeeld omdat op deze manier de individuele beheersing van de leerdoelen
+    zonder hulpmiddelen betrouwbaar vastgesteld kan worden._
+  ]
+)
+
+// ── OPTION 2 ─────────────────────────────────────────────────────────────────
+#option-block(
+  "2",
+  "AI-gebruik toestaan onder toezicht en verantwoording",
+  [
+    In onze opleiding mogen studenten bij specifieke toetsen met een summatieve
+    functie/examinering AI gebruiken, mits ze het gebruik van AI volledig
+    transparant maken.
+
+    _Bijvoorbeeld omdat dit studenten leert AI bewust en doordacht in te zetten,
+    zoals zij dit straks ook in hun beroepspraktijk zullen moeten doen._
+  ]
+)
+
+// ── OPTION 3 ─────────────────────────────────────────────────────────────────
+#option-block(
+  "3",
+  "AI-gebruik verplichten",
+  [
+    In onze opleiding verplichten we studenten AI actief in te zetten bij toetsen
+    met een summatieve functie/examinering, wanneer de leerdoelen daarom vragen.
+
+    _Bijvoorbeeld omdat we zo zowel het eindresultaat als hun verantwoord gebruik
+    van AI kunnen beoordelen._
+  ]
+)
+
+// ── NOTES AREA ───────────────────────────────────────────────────────────────
+#v(6pt)
+#text(size: 9pt, weight: "bold", fill: darkgrey)[Aantekeningen / toelichting:]
+#v(4pt)
+#rect(
+  width: 100%,
+  height: 80pt,
+  stroke: 0.5pt + midgrey,
+  radius: 4pt,
+  fill: lightgrey,
+)[]
+```
