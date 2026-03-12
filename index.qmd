@@ -2,31 +2,65 @@
 layout: body-outset
 ---
 
-::: { .column-screen style="background-color: #D6E2FD; margin: -65px 0 20px 0; padding: 60px 0 20px 0;" }
+::: { .column-screen style="background-color: #D6E2FD; margin: -65px 0 20px 0; padding: 60px 0 50px 0;" }
 
 ::: {.lead .column-page-inset}
 
 
 
-::: {layout="[60,40]"}
+::: {layout="[40,60]"}
 
 ## Visietool Toetsen 2.0
 
-Bij Npuls zijn we ons ervan bewust dat het onderwijs en daarmee toetsing in beweging is. Daarom zijn we constant bezig met het updaten en verbeteren van onze materialen en tools. Momenteel werken wij aan een vernieuwde versie van de Visietool voor zowel het hbo-wo, als het mbo. De Visietool 2.0 is bijna gereed. Binnenkort vind je hier de Visietool 2.0, inclusief alle benodigde materialen.
+De Visietool Toetsen helpt onderwijsinstellingen een gedragen visie te ontwikkelen op (digitaal) toetsen en beoordelen.
 
-![](https://npuls.nl/_assets/4382aac5-81f1-4e9e-9238-d4cacc6d1a41/Toekomst%20card.svg){width=600px}
-
-:::
-
+{{< video https://youtu.be/irJLWzgdX7g?si=XFV15JdNNyQ8KHQn >}}
 
 :::
 
+
 :::
 
-::: {layout="[10,90]"}
+:::
 
-[Mail](mailto:toetsen@npuls.nl?subject=Boeking%20visietool%20toetsen){.btn .btn-primary target="_blank"}
+::: {.column-page layout="[45,5,45]"}
 
-Interesse of vragen? Of wil je nu al aan de slag met jullie visie op toetsen/examineren en ontwikkelen? Neem dan contact met ons op. We denken graag mee en/of komen langs om een sessie te faciliteren!
+::: {}
+
+::: {.lead style="margin-top: 40px;"}
+Deze Visietool helpt om een visie te ontwikkelen op (digitaal) toetsen binnen een opleiding, faculteit/academie of instelling. Als uitgangspunt gebruikt de tool het document Toekomstperspectief op (digitaal) toetsen en beoordelen. 
+:::
+
+De [werkgroep Toetsen](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/) van het [Versnellings plan](https://www.versnellingsplan.nl) ontwikkelde in 2022 het [toekomstperspectief voor toetsen en beoordelen in 2027](https://www.versnellingsplan.nl/Kennisbank/toekomstperspectief-op-digitaal-toetsen-en-beoordelen/). Dit toekomstperspectief is gebaseerd op een analyse van trends rond toetsing in het hoger onderwijs en de inbreng van ruim 50 experts uit mbo, hbo en wo. 
+
+::: {.text-center}
+![](https://npuls.nl/_assets/4382aac5-81f1-4e9e-9238-d4cacc6d1a41/Toekomst%20card.svg){width=300px}
+:::
+
+:::
+
+::: {.gap}
+:::
+
+::: {}
+
+## Vijf dimensies
+
+In het toekomstperspectief zien we de volgende vijf dimensies:
+
+1. Formatieve en summatieve functie van toetsen in balans
+2. Toetsen en leren geïntegreerd en samenhangend, maar ook modulair waar wenselijk
+3. Toetsen zijn authentiek, rijk en gevarieerd
+4. Plaats- en tijdonafhankelijk toetsen
+5. Toetsproces in samenhang en in samenwerking gedigitaliseerd en georganiseerd
+
+Omdat instellingen en opleidingen sterk van elkaar verschillen, zal ook verschillen hoe een bepaalde dimensie vorm krijgt. De visietool helpt om het gesprek te voeren over de inkleuring van deze dimensies binnen een organisatie(-onderdeel). Een uitgebreide toelichting op de dimensies is terug te lezen in het Toekomstperspectief.
+
+
+## Opzet Visietool
+
+De Visietool helpt om per dimensie het gesprek aan te gaan over de invulling ervan. Iedere dimensie is opgesplitst in twee componenten (bijvoorbeeld voor de eerste dimensie: een component Formatief en een component Summatief). Elke component bevat drie stellingen met een mogelijke verantwoording. Gebruikers van de Visietool kiezen voor elke component eerst individueel de stelling die zij het beste vinden passen bij hun opleiding (let op: het hoeft niet perfect te passen, het gaat erom het gesprek op gang te brengen) en de ambities die zij hiervoor hebben. Vervolgens gaan zij met elkaar het gesprek hierover aan. 
+
+:::
 
 :::
