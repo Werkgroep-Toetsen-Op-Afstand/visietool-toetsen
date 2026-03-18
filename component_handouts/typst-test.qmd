@@ -1,0 +1,31 @@
+---
+title: "AI-bewust onderwijs en toetsen"
+subtitle: "Dimensie 2"
+format:
+  typst:
+    toc: false
+    section-numbering: 1.1.a
+---
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+## Component 2: AI- gebruik bij toetsen met een summatieve functie/examineren
+
+Kruis 1 optie die geldt voor de huidige situatie en 1 voor
+de toekomst.
+
+Onderaan is ruimte voor aantekeningen of toelichting
+
+:::
+
+### AI-gebruik niet toestaan
+
+In onze opleidingen mogen studenten bij toetsen met een summatieve functie/examinering in een gecontroleerde omgeving geen gebruik maken van AI.
+
+**Bijvoorbeeld omdat op deze manier de individuele beheersing van de leerdoelen zonder hulpmiddelen betrouwbaar vastgesteld kan worden.**
+
+### AI-gebruik toestaan onder toezicht en verantwoording
+
+In onze opleiding mogen studenten bij specifieke toetsen met een summatieve functie/examinering AI gebruiken, mits ze het gebruik van AI volledig transparant maken.
+
+*Bijvoorbeeld omdat dit studenten leer t AI bewust en doordacht in te zet ten, zoals zij dit straks ook in hun beroepspraktijk zullen moeten doen.*
